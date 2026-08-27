@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Node
+node_modules/
+app/dist/
+app/node_modules/
+desktop/node_modules/
+
+# Secrets
+workspace/auth/.jwt_secret
+app/config/app.config.local.json
+
+# Frozen Word/PDF trees (~16 GB) — linked locally, not stored in GitHub
+delivery/01_*
+delivery/02_*
+delivery/03_*
+delivery/04_*
+delivery/*.zip
+
+# Runtime noise
+export/
+*.log
+_lo_profile*/
+
+# Live instance data — generated locally per install, not source code
+workspace/
+candidates/
+uvicorn_out.log
+uvicorn_err.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local toolchain
+tools/

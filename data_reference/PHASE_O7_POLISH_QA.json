@@ -1,0 +1,127 @@
+{
+  "phase_o7_technical_gate": "PASS",
+  "manual_visual_acceptance": "PENDING",
+  "recommendation": "O7 polish candidate is stable and preferred for visual review. O6 remains the last known-good baseline if O7 visual is rejected.",
+  "workbook_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FRONTEND_O7_POLISH_CANDIDATE.xlsx",
+  "source_o6": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FRONTEND_O6_CANDIDATE.xlsx",
+  "baseline_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "after_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "counts_unchanged": true,
+  "word_links": {
+    "total": 988,
+    "existing": 988,
+    "missing": 0
+  },
+  "home_links": 13,
+  "native_excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 62
+  },
+  "layout": {
+    "00_HOME": {
+      "shape_count": 33,
+      "outside_canvas": 0,
+      "unintended_overlaps": 0,
+      "outside_names": [],
+      "overlap_pairs": [],
+      "status": "PASS"
+    },
+    "NAVIGATION": {
+      "shape_count": 23,
+      "outside_canvas": 0,
+      "unintended_overlaps": 0,
+      "outside_names": [],
+      "overlap_pairs": [],
+      "status": "PASS"
+    },
+    "SEARCH": {
+      "shape_count": 16,
+      "outside_canvas": 0,
+      "unintended_overlaps": 0,
+      "outside_names": [],
+      "overlap_pairs": [],
+      "status": "PASS"
+    }
+  },
+  "interaction": {
+    "pass": true,
+    "status": "PASS",
+    "steps": [
+      {
+        "step": "HOME→Search",
+        "ok": true
+      },
+      {
+        "step": "Search→Nav",
+        "ok": true
+      },
+      {
+        "step": "Nav→HOME",
+        "ok": true
+      },
+      {
+        "step": "HOME→Documents",
+        "ok": true
+      },
+      {
+        "step": "Search",
+        "ok": true,
+        "result": "IA-ST-051-STD-01"
+      }
+    ]
+  },
+  "search_qa": {
+    "input_editable": true,
+    "lookup_sample": "IA-ST-051-STD-01",
+    "ok": true
+  },
+  "polish_stats": {
+    "sheets": {
+      "00_HOME": {
+        "shapes": 33,
+        "touched": 29,
+        "accents_added": 4
+      },
+      "NAVIGATION": {
+        "shapes": 23,
+        "touched": 23,
+        "accents_added": 0
+      },
+      "SEARCH": {
+        "shapes": 16,
+        "touched": 16,
+        "accents_added": 0
+      }
+    },
+    "accents_added": 4,
+    "shapes_touched": 68
+  },
+  "preview_files": [
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O7_PREVIEW\\HOME.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O7_PREVIEW\\NAVIGATION.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O7_PREVIEW\\SEARCH.png"
+  ],
+  "before_after_files": [
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O7_BEFORE_AFTER\\O6_vs_O7_HOME.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O7_BEFORE_AFTER\\O6_vs_O7_NAVIGATION.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O7_BEFORE_AFTER\\O6_vs_O7_SEARCH.png"
+  ],
+  "links_preserved": true,
+  "search_preserved": true,
+  "backend_changed": false,
+  "word_regenerated": false,
+  "promoted": false
+}

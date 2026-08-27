@@ -1,0 +1,75 @@
+{
+  "workbook_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FINAL_UI_CANDIDATE_V2.xlsx",
+  "delivery_root": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_UI_READY",
+  "delivery_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_UI_READY\\INCI_AKU_PPWR_PIMS_Rev00_FINAL_UI_CANDIDATE_V2.xlsx",
+  "user_facing_sheets": [
+    "00_HOME",
+    "NAVIGATION",
+    "SEARCH",
+    "PACKAGING_CONFIGURATIONS",
+    "PRODUCT_MASTER",
+    "COMPONENT_MASTER",
+    "DOCUMENT_CENTER",
+    "TECHNICAL_FILES",
+    "DECLARATIONS_OF_CONFORMITY",
+    "LABELS",
+    "SHIPMENT_STATEMENTS",
+    "SHIPMENTS",
+    "DOC_ENGINE_MAP"
+  ],
+  "user_facing_sheets_count": 13,
+  "home_buttons_added": 13,
+  "total_document_links": 988,
+  "working_links": 988,
+  "broken_links": 0,
+  "broken_paths": 0,
+  "broken_path_samples": [],
+  "absolute_path_hits": 0,
+  "formula_instances": 1976,
+  "tested_sample_links": [
+    {
+      "sample": "STARTER_TF",
+      "relative": "01_STARTER/ST-051-STD-01/01_Technical_File.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_DOC",
+      "relative": "01_STARTER/ST-051-STD-01/02_EU_DoC.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_LBL",
+      "relative": "01_STARTER/ST-051-STD-01/03_Label.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_STM",
+      "relative": "01_STARTER/ST-051-STD-01/04_Shipment_Statement.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "INDUSTRIAL",
+      "relative": "02_INDUSTRIAL/IND-24V-01/01_Technical_File.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "CONTAINER",
+      "relative": "03_CONTAINER/CNT-20-STD-01/03_Label.docx",
+      "exists": true,
+      "in_workbook_links": true
+    }
+  ],
+  "native_excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 62
+  },
+  "canonical_data_changed": false,
+  "word_regenerated": false,
+  "gate": "PASS"
+}

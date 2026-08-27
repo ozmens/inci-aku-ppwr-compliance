@@ -1,0 +1,38 @@
+# PIMS frozen schema pointer (architecture)
+# Authority document remains FINAL_DATABASE.md
+
+schema_version: "1.0.0"
+authority: FINAL_DATABASE.md
+expected_table_count: 43
+release_name: Inci_Aku_PPWR_Packaging_Management_System_Rev00
+excel_generation_enabled: true
+seed_data_enabled: true
+ui_enabled: true
+
+sheet_order_groups:
+  - SYSTEM
+  - LOOKUP
+  - ORGANIZATION
+  - MASTER
+  - CONFIGURATION
+  - COMMERCIAL
+  - LOGISTICS
+  - COMPLIANCE
+
+mandatory_entities:
+  - COMPONENT
+  - COMPONENT_MATERIAL
+  - PRODUCT
+  - PACKAGING_CONFIGURATION
+  - PACKAGING_CONFIGURATION_LINE
+  - TRANSPORT_CONFIGURATION
+  - TRANSPORT_CONFIGURATION_LINE
+  - COMMERCIAL_SCENARIO
+  - SHIPMENT
+  - SHIPMENT_LINE
+  - STATEMENT
+  - STATEMENT_LINE
+  - TECHNICAL_FILE
+  - DECLARATION_OF_CONFORMITY
+  - DOCUMENT_LIBRARY
+  - DOCUMENT_LINK

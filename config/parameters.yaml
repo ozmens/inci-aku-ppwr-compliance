@@ -1,0 +1,7 @@
+# Mirrors SYS_PARAMETER seeds (not written to Excel yet)
+
+parameters:
+  WEIGHT_UOM: "G"
+  TRANSPORT_ALLOCATION_METHOD: "PER_PRODUCT_UNIT"
+  MATERIAL_SHARE_TOLERANCE_PCT: "0.5"
+  SCHEMA_VERSION: "1.0.0"

@@ -1,0 +1,22 @@
+{
+  "existing_trusted_sets": 240,
+  "new_candidates_audited": 71,
+  "reuse_existing": 0,
+  "true_new_complete": 47,
+  "incomplete_data_required": 24,
+  "manual_review": 0,
+  "final_controlled_starter_packaging_sets": 287,
+  "controlled_product_codes": "2004 / 2046",
+  "data_required_product_codes": "42 / 2046",
+  "suspicious_tare_records_audited": 24,
+  "incomplete_pallet_boms_found": 24,
+  "impossible_partial_tare_remaining_in_controlled": 0,
+  "validation_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\STARTER_71_NEW_SET_SOURCE_VALIDATION_Rev00.xlsx",
+  "quarantine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\_QUARANTINE_INCI_AKU_PPWR_STARTER_DELIVERY_PRE_SOURCE_AUDIT",
+  "word_pdf_regenerated": "NO",
+  "final_gate": "PASS",
+  "dashboard": true,
+  "home": true,
+  "search": true,
+  "doc_center": true
+}

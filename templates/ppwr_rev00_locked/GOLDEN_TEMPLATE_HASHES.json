@@ -1,0 +1,24 @@
+{
+  "01_Technical_File_GOLDEN.docx": {
+    "source": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\templates\\word_golden\\01_Technical_File_GOLDEN.docx",
+    "source_sha256": "b9153f1b94518c6019296b2ea94d4810821651c4664f26f0a1254fb346d59f85",
+    "removed_annex_rows": 0,
+    "para_scrub": 1,
+    "locked_sha256": "dfac6d21d6c1ec5f63e595587679c8c213c8b2793001703253883b4834792f7d"
+  },
+  "02_EU_DoC_GOLDEN.docx": {
+    "source": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\templates\\word_golden\\02_EU_DoC_GOLDEN.docx",
+    "source_sha256": "1662b4308a4ba47b6cdcd7b9cdb65f60fcb39a8c95b16835166b7f5fff63f9bd",
+    "locked_sha256": "1809e9ee0d452df57aaf7edb52044fcceb58afa150a42214ca1391e16f822f4c"
+  },
+  "03_Label_GOLDEN.docx": {
+    "source": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\templates\\word_golden\\03_Label_GOLDEN.docx",
+    "source_sha256": "73c3b448ab13f7b85a36d124aaf4423d8d5135952ebcff4f28846099688494be",
+    "locked_sha256": "73c3b448ab13f7b85a36d124aaf4423d8d5135952ebcff4f28846099688494be"
+  },
+  "04_Shipment_Statement_GOLDEN.docx": {
+    "source": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\templates\\word_golden\\04_Shipment_Statement_GOLDEN.docx",
+    "source_sha256": "b5b6cca4dc5934e498cc12466d9a94d577443cd5b228fdaa88485015eb85d47a",
+    "locked_sha256": "b5b6cca4dc5934e498cc12466d9a94d577443cd5b228fdaa88485015eb85d47a"
+  }
+}

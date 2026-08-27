@@ -1,0 +1,47 @@
+{
+  "STARTER": {
+    "GATE": "PASS",
+    "folders": 2024,
+    "docx": 8096,
+    "pdf": 8096,
+    "links_ok": 16192,
+    "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\01_STARTER_INDIVIDUAL_DELIVERY_REV00\\00_CONTROL\\INCI_AKU_PPWR_STARTER_INDIVIDUAL_ENGINE_Rev00.xlsx",
+    "final": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\01_STARTER_INDIVIDUAL_DELIVERY_REV00",
+    "zip": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\01_STARTER_INDIVIDUAL_DELIVERY_REV00.zip",
+    "sha256": "5983386fad01879fe44385913d9c1faabfd2b86ba4009150af256f65c04901e7"
+  },
+  "CONTAINER": {
+    "GATE": "PASS",
+    "folders": 4,
+    "docx": 16,
+    "pdf": 16,
+    "links_ok": 32,
+    "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\03_CONTAINER_DELIVERY_REV00\\00_CONTROL\\INCI_AKU_PPWR_CONTAINER_ENGINE_Rev00.xlsx",
+    "final": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\03_CONTAINER_DELIVERY_REV00",
+    "zip": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\03_CONTAINER_DELIVERY_REV00.zip",
+    "sha256": "87dd8d49b09bc8b9aa173e708035e305f8b0b97e73e259a19644f73e11322cfc"
+  },
+  "INDUSTRIAL": {
+    "GATE": "PASS",
+    "folders": 2736,
+    "docx": 10944,
+    "pdf": 10944,
+    "links_ok": 21888,
+    "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\02_INDUSTRIAL_DELIVERY_REV00\\00_CONTROL\\INCI_AKU_PPWR_INDUSTRIAL_ENGINE_Rev00.xlsx",
+    "final": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\02_INDUSTRIAL_DELIVERY_REV00",
+    "zip": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\02_INDUSTRIAL_DELIVERY_REV00.zip",
+    "sha256": "ef447beb73c111716348bd9a00e443ae43e732dca2ce928f187003ab3a55d0e2"
+  },
+  "COMPONENT": {
+    "GATE": "PASS",
+    "folders": 2,
+    "docx": 8,
+    "pdf": 8,
+    "links_ok": 16,
+    "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\04_COMPONENT_SPARE_DELIVERY_REV00\\00_CONTROL\\INCI_AKU_PPWR_COMPONENT_SPARE_ENGINE_Rev00.xlsx",
+    "final": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\04_COMPONENT_SPARE_DELIVERY_REV00",
+    "zip": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\04_COMPONENT_SPARE_DELIVERY_REV00.zip",
+    "sha256": "9b06f27c987a3f91582206fb8095dc8a7de97c5685bb4b15e93db6b97bb0f8cb"
+  },
+  "OVERALL": "PASS"
+}

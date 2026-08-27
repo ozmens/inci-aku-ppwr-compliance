@@ -1,0 +1,38 @@
+{
+  "STARTER": {
+    "verify": {
+      "ok": 16192,
+      "missing": 0,
+      "examples": []
+    },
+    "sha256": "f871a5544ab0abe45beff345774fac27fe2e8f585e256b987c8acd62a9dd40a0",
+    "records": 2024
+  },
+  "INDUSTRIAL": {
+    "verify": {
+      "ok": 21888,
+      "missing": 0,
+      "examples": []
+    },
+    "sha256": "bed0b0a0bd6f3271bcd2d6529361c83be4f412bdb36c63d18bd726fa7ac4d4bd",
+    "records": 2736
+  },
+  "CONTAINER": {
+    "verify": {
+      "ok": 32,
+      "missing": 0,
+      "examples": []
+    },
+    "sha256": "6bf38fcb0c5d783d556ba236d2d3b487e05219717e211e6416d93ffd87390a0f",
+    "records": 4
+  },
+  "COMPONENT": {
+    "verify": {
+      "ok": 16,
+      "missing": 0,
+      "examples": []
+    },
+    "sha256": "0964f04d5719dc894699bddc93fcb8dbaf38efcd0d82a0ee5be2c746905ac264",
+    "records": 2
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "technical_gate": "PASS",
+  "manual_visual_acceptance": "PENDING",
+  "workbook_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FINAL_EXECUTIVE_CANDIDATE.xlsx",
+  "delivery_root": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_EXECUTIVE",
+  "delivery_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_EXECUTIVE\\INCI_AKU_PPWR_PIMS_Rev00_FINAL_EXECUTIVE_CANDIDATE.xlsx",
+  "logo_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_N_ASSETS\\inci_aku_logo.png",
+  "preview_dir": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_N_EXECUTIVE_PREVIEW",
+  "preview_files": [
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_N_EXECUTIVE_PREVIEW\\PHASE_N_HOME.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_N_EXECUTIVE_PREVIEW\\PHASE_N_NAVIGATION.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_N_EXECUTIVE_PREVIEW\\PHASE_N_SEARCH.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_N_EXECUTIVE_PREVIEW\\PHASE_N_DOCUMENT_CENTER.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_N_EXECUTIVE_PREVIEW\\PHASE_N_PACKAGING_CONFIGURATIONS.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_N_EXECUTIVE_PREVIEW\\PHASE_N_DECLARATIONS_OF_CONFORMITY.png"
+  ],
+  "design_stats": {
+    "shapes_created": 320,
+    "home_buttons": 26,
+    "sheets_designed": [
+      "00_HOME",
+      "NAVIGATION",
+      "SEARCH",
+      "PACKAGING_CONFIGURATIONS",
+      "PRODUCT_MASTER",
+      "COMPONENT_MASTER",
+      "DOCUMENT_CENTER",
+      "TECHNICAL_FILES",
+      "DECLARATIONS_OF_CONFORMITY",
+      "LABELS",
+      "SHIPMENT_STATEMENTS",
+      "SHIPMENTS",
+      "DOC_ENGINE_MAP"
+    ],
+    "native_reopen": {
+      "ok": true,
+      "error": null,
+      "sheets": 62
+    }
+  },
+  "baseline_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "after_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "counts_unchanged": true,
+  "total_document_links": 988,
+  "working_links": 988,
+  "broken_links": 0,
+  "broken_paths": 0,
+  "absolute_path_hits": 0,
+  "home_buttons": 13,
+  "tested_sample_links": [
+    {
+      "sample": "STARTER_TF",
+      "relative": "01_STARTER/ST-051-STD-01/01_Technical_File.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_DOC",
+      "relative": "01_STARTER/ST-051-STD-01/02_EU_DoC.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_LBL",
+      "relative": "01_STARTER/ST-051-STD-01/03_Label.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_STM",
+      "relative": "01_STARTER/ST-051-STD-01/04_Shipment_Statement.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "INDUSTRIAL",
+      "relative": "02_INDUSTRIAL/IND-24V-01/01_Technical_File.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "CONTAINER",
+      "relative": "03_CONTAINER/CNT-20-STD-01/03_Label.docx",
+      "exists": true,
+      "in_workbook_links": true
+    }
+  ],
+  "native_excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 62
+  },
+  "canonical_data_changed": false,
+  "word_regenerated": false,
+  "final_overwritten": false,
+  "promoted": false
+}

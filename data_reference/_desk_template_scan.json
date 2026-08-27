@@ -1,0 +1,658 @@
+{
+  "TF": {
+    "paras": [
+      "PPWR AMBALAJ KONFİGÜRASYONU TEKNİK DOSYASI\nPPWR PACKAGING CONFIGURATION TECHNICAL FILE\nRegulation (EU) 2025/40 • Annex VII • Module A / Internal Production Control",
+      "Doküman No/Doc. Nr.: YS/D/0020    Yayın Trh./Rel. Date: 11.08.2026   Rev.No/Rev.Nr.: 00   Rev.Trh./Rev.Date: - - -",
+      "01  AMAÇ, KAPSAM VE KULLANIM\n01  PURPOSE, SCOPE AND INTENDED USE",
+      "Bu Teknik Dosya, ST-012-EUR-01 ambalaj varyantının Regulation (EU) 2025/40 kapsamında Annex VII / Module A iç üretim kontrolü esasına göre tanımlanması, bileşenlerinin ve sabit BOM’unun izlenebilirliği için hazırlanmıştır.\nThis Technical File defines packaging variant ST-012-EUR-01 under the Annex VII / Module A internal-production-control basis of Regulation (EU) 2025/40 and records the traceability of its components and fixed BOM.",
+      "02  ÜRÜN KAPSAMI VE VERİ SOY AĞACI\n02  PRODUCT SCOPE AND DATA LINEAGE",
+      "Bu dosya yalnız ST-012-EUR-01 sabit BOM varyantını kapsar. Aynı palet/adet ailesindeki farklı BOM’lar ayrı Packaging Set Code ile yönetilir. Bu varyanta bağlı 1 ürün kodu aşağıda müşteri/pazar bilgisi olmadan izlenebilirlik amacıyla listelenmiştir.\nThis file covers only fixed BOM variant ST-012-EUR-01. Different BOMs within the same pallet/quantity family are controlled under separate Packaging Set Codes. The 1 product codes linked to this variant are listed below for traceability without customer/market information.",
+      "03  SABİT AMBALAJ BOM’U VE KÜTLE DENGESİ\n03  FIXED PACKAGING BOM AND MASS BALANCE",
+      "Aşağıdaki BOM bu varyant için sabittir. Uygunluğu etkileyen miktar, malzeme, bileşen veya birim ağırlık değişikliği revizyon değerlendirmesini tetikler.\nThe BOM below is fixed for this variant. A conformity-relevant change to quantity, material, component or unit weight triggers revision assessment.",
+      "04  PPWR UYGUNLUK DEĞERLENDİRME ÖZETİ\n04  PPWR CONFORMITY ASSESSMENT SUMMARY",
+      "Değerlendirme, Rev.00 mevcut teknik ve tedarikçi kanıtı esasına göre yürütülür. Desteklenmeyen bileşen-seviyesi sayısal ağır metal / SoC iddiası oluşturulmaz.\nAssessment is performed on the Rev.00 current technical and supplier-evidence basis. No unsupported component-level numerical heavy-metal / SoC claim is made.",
+      "05  ÜRETİM / AMBALAJLAMA KONTROLÜ\n05  MANUFACTURING / PACKAGING CONTROL",
+      "İnci Akü, kendi sorumluluk kapsamındaki ambalajlama faaliyetinde ST-012-EUR-01 onaylı sabit BOM’unun uygulanmasını, bileşen kimliğinin ve miktarlarının doğrulanmasını ve izlenebilirlik kayıtlarının korunmasını yönetir.\nWithin its responsibility scope, İnci Akü controls application of the approved fixed BOM ST-012-EUR-01, verification of component identity and quantities, and retention of traceability records.",
+      "06  ETİKETLEME, İZLENEBİLİRLİK VE BAĞLANTILI ÇIKTILAR\n06  LABELLING, TRACEABILITY AND LINKED OUTPUTS",
+      "Etiket, PPWR kimliklendirme amacıyla kontrol edilen ambalaj konfigürasyonunu tanımlar. ADR/IMDG ve ürün güvenliği işaretleri bu etiketten bağımsız olarak uygulanır.\nThe label identifies the controlled packaging configuration for PPWR traceability. ADR/IMDG and product-safety markings are applied independently of this label.",
+      "07  EKLER, DEĞİŞİKLİK KONTROLÜ VE SONUÇ\n07  ANNEXES, CHANGE CONTROL AND CONCLUSION",
+      "Bu dosyadaki sabit BOM, ürün kapsamı, ağırlık veya ambalaj fonksiyonunu etkileyen değişikliklerde yeniden değerlendirilir ve gerektiğinde yeni revizyon yayımlanır. Rev.00 kapsamında çizimler ve fotoğraflar kontrollü ek olarak sonradan eklenecektir.\nA change affecting the fixed BOM, product scope, weight or packaging function triggers reassessment and, where necessary, a new revision. Under Rev.00, drawings and photographs will be added later as controlled annexes.",
+      "SONUÇ: ST-012-EUR-01 varyantı, Rev.00 teknik temeli ve bu Teknik Dosyada tanımlanan uygulanabilir PPWR değerlendirmeleri kapsamında kontrollüdür.\nCONCLUSION: Variant ST-012-EUR-01 is controlled under the Rev.00 technical basis and applicable PPWR assessments defined in this Technical File."
+    ],
+    "headers": [],
+    "footers": [],
+    "ntables": 10,
+    "tables_summary": [
+      {
+        "i": 0,
+        "cols": 2,
+        "nrows": 8,
+        "header": [
+          "Ambalaj Seti Kodu\nPackaging Set Code",
+          "ST-012-EUR-01"
+        ],
+        "sample_rows": [
+          [
+            "Ambalaj Seti Kodu\nPackaging Set Code",
+            "ST-012-EUR-01"
+          ],
+          [
+            "Konfigürasyon Kimliği\nConfiguration ID",
+            "IA-ST-012-EUR-01"
+          ],
+          [
+            "Konfigürasyon\nPackaging Configuration",
+            "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+          ]
+        ],
+        "last_row": [
+          "Doküman revizyonu\nDocument revision",
+          "Rev.00 / 08.08.2026"
+        ]
+      },
+      {
+        "i": 1,
+        "cols": 2,
+        "nrows": 6,
+        "header": [
+          "Ambalaj seviyesi\nPackaging level",
+          "Taşıma / gruplanmış ambalaj\nTransport / grouped packaging"
+        ],
+        "sample_rows": [
+          [
+            "Ambalaj seviyesi\nPackaging level",
+            "Taşıma / gruplanmış ambalaj\nTransport / grouped packaging"
+          ],
+          [
+            "Fonksiyon\nFunction",
+            "Koruma, sabitleme, elleçleme ve taşıma\nProtection, stabilisation, handling and transport"
+          ],
+          [
+            "Elleçleme\nHandling",
+            "Paletli mekanik elleçleme\nPalletised mechanical handling"
+          ]
+        ],
+        "last_row": [
+          "Tekrar kullanım iddiası\nReuse claim",
+          "Kontrollü iade/rotasyon sistemi belgelenmedikçe yapılmaz\nNo reusable claim unless a controlled return/rotation system is documented"
+        ]
+      },
+      {
+        "i": 2,
+        "cols": 2,
+        "nrows": 2,
+        "header": [
+          "Kontrollü ürünler\nControlled products",
+          "Kontrollü ürünler\nControlled products"
+        ],
+        "sample_rows": [
+          [
+            "Kontrollü ürünler\nControlled products",
+            "Kontrollü ürünler\nControlled products"
+          ],
+          [
+            "1015169 • AKÜ,C,DK,220AH,VRLA,AGMYBX9625-220,GYEUR",
+            "—"
+          ]
+        ],
+        "last_row": [
+          "1015169 • AKÜ,C,DK,220AH,VRLA,AGMYBX9625-220,GYEUR",
+          "—"
+        ]
+      },
+      {
+        "i": 3,
+        "cols": 2,
+        "nrows": 5,
+        "header": [
+          "Packaging Set Code\nPackaging Set Code",
+          "ST-012-EUR-01"
+        ],
+        "sample_rows": [
+          [
+            "Packaging Set Code\nPackaging Set Code",
+            "ST-012-EUR-01"
+          ],
+          [
+            "Configuration ID\nConfiguration ID",
+            "IA-ST-012-EUR-01"
+          ],
+          [
+            "Source BOM ID\nSource BOM ID",
+            "IA-ST-CFG-0004"
+          ]
+        ],
+        "last_row": [
+          "DPP veri bağlantısı\nDPP data linkage",
+          "Ürün kodu → Packaging Set Code → Source BOM → Bileşen/Birim Ağırlık\nProduct code → Packaging Set Code → Source BOM → Component/Unit Weight"
+        ]
+      },
+      {
+        "i": 4,
+        "cols": 6,
+        "nrows": 9,
+        "header": [
+          "Kod\nCode",
+          "Bileşen / Malzeme\nComponent / Material",
+          "Miktar\nQuantity",
+          "Birim\nUOM",
+          "Birim ağırlık\nUnit weight",
+          "Satır ağırlığı\nLine weight"
+        ],
+        "sample_rows": [
+          [
+            "Kod\nCode",
+            "Bileşen / Malzeme\nComponent / Material",
+            "Miktar\nQuantity",
+            "Birim\nUOM",
+            "Birim ağırlık\nUnit weight",
+            "Satır ağırlığı\nLine weight"
+          ],
+          [
+            "4000450",
+            "SIGNODE ÇEMBER 1260 2000M 3000N 12.0X0.6",
+            "14",
+            "m / m",
+            "0.0124 kg",
+            "0.1736 kg"
+          ],
+          [
+            "4000038",
+            "PALET EURO,800*1200*152",
+            "1",
+            "adet / pcs",
+            "26.0000 kg",
+            "26.0000 kg"
+          ]
+        ],
+        "last_row": [
+          "TOPLAM\nTOTAL",
+          "TOPLAM\nTOTAL",
+          "TOPLAM\nTOTAL",
+          "TOPLAM\nTOTAL",
+          "TOPLAM\nTOTAL",
+          "29.3260 kg"
+        ]
+      },
+      {
+        "i": 5,
+        "cols": 3,
+        "nrows": 5,
+        "header": [
+          "Malzeme ailesi\nMaterial family",
+          "Bu varyanttaki örnek bileşenler\nExample components in this variant",
+          "Kontrol yaklaşımı\nControl approach"
+        ],
+        "sample_rows": [
+          [
+            "Malzeme ailesi\nMaterial family",
+            "Bu varyanttaki örnek bileşenler\nExample components in this variant",
+            "Kontrol yaklaşımı\nControl approach"
+          ],
+          [
+            "Ahşap / ahşap esaslı\nWood / wood-based",
+            "Palet, OSB, takoz, sabitleme elemanı\nPallet, OSB, securing block / timber",
+            "Kod, miktar ve kaynak kayıt bazlı\nControlled by code, quantity and source record"
+          ],
+          [
+            "Kâğıt / karton\nPaper / cardboard",
+            "Koli, separatör, köşebent, etiket\nCarton, separator, edge protector, label",
+            "BOM ve teknik kanıt bazlı\nBOM and technical-evidence basis"
+          ]
+        ],
+        "last_row": [
+          "Çember / bağlama\nStrap / securing",
+          "Çember, halat, toka\nStrap, rope, buckle",
+          "Kod, miktar ve teknik kaynak bazlı\nCode, quantity and technical-source basis"
+        ]
+      },
+      {
+        "i": 6,
+        "cols": 4,
+        "nrows": 8,
+        "header": [
+          "Referans\nReference",
+          "Konu\nSubject",
+          "Durum\nStatus",
+          "Değerlendirme / kontrol esası\nAssessment / control basis"
+        ],
+        "sample_rows": [
+          [
+            "Referans\nReference",
+            "Konu\nSubject",
+            "Durum\nStatus",
+            "Değerlendirme / kontrol esası\nAssessment / control basis"
+          ],
+          [
+            "Madde 5\nArticle 5",
+            "Ambalajdaki maddeler / ağır metaller\nSubstances in packaging / heavy metals",
+            "REV00 ARTICLE 5 ASSESSMENT BASIS",
+            "Mevcut teknik ve tedarikçi kanıt temeli; yeni kanıt revizyon kontrolüne alınır\nCurrent technical and supplier-evidence basis; new evidence is handled through revision control"
+          ],
+          [
+            "Madde 6\nArticle 6",
+            "Geri dönüştürülebilirlik\nRecyclability",
+            "REV.00 TECHNICAL BASIS",
+            "Malzeme aileleri ve sökülebilir bileşen yapısı üzerinden nitel değerlendirme\nQualitative assessment based on material families and separable component structure"
+          ]
+        ],
+        "last_row": [
+          "Madde 12\nArticle 12",
+          "Etiketleme / izlenebilirlik\nLabelling / traceability",
+          "CONTROLLED IDENTIFICATION",
+          "Packaging Set Code, üretici kimliği ve doküman bağlantısı ayrı Label ile yönetilir\nPackaging Set Code, manufacturer identity and document linkage are controlled through the separate Label"
+        ]
+      },
+      {
+        "i": 7,
+        "cols": 4,
+        "nrows": 6,
+        "header": [
+          "Kontrol noktası\nControl point",
+          "Kabul kriteri\nAcceptance criterion",
+          "Kayıt\nRecord",
+          "Sorumluluk\nResponsibility"
+        ],
+        "sample_rows": [
+          [
+            "Kontrol noktası\nControl point",
+            "Kabul kriteri\nAcceptance criterion",
+            "Kayıt\nRecord",
+            "Sorumluluk\nResponsibility"
+          ],
+          [
+            "Girdi kabulü\nIncoming acceptance",
+            "Kod / tanım / miktar / hasar kontrolü\nCode / description / quantity / damage check",
+            "Satın alma / kalite kayıtları\nPurchasing / quality records",
+            "İnci Akü ilgili fonksiyonları\nRelevant İnci Akü functions"
+          ],
+          [
+            "Ambalaj hazırlama\nPackaging assembly",
+            "ST-012-EUR-01 sabit BOM’a uygunluk\nConformity with fixed BOM ST-012-EUR-01",
+            "Operasyon / paketleme kaydı\nOperation / packing record",
+            "İnci Akü ilgili fonksiyonları\nRelevant İnci Akü functions"
+          ]
+        ],
+        "last_row": [
+          "Nihai serbest bırakma\nFinal release",
+          "Konfigürasyon, hasar, stabilite ve kayıt tamlığı\nConfiguration, damage, stability and record completeness",
+          "Kalite / lojistik kontrolü\nQuality / logistics control",
+          "İnci Akü ilgili fonksiyonları\nRelevant İnci Akü functions"
+        ]
+      },
+      {
+        "i": 8,
+        "cols": 2,
+        "nrows": 5,
+        "header": [
+          "Packaging Identification Label\nPackaging Identification Label",
+          "IA-PPWR-LBL-ST-012-EUR-01-R00"
+        ],
+        "sample_rows": [
+          [
+            "Packaging Identification Label\nPackaging Identification Label",
+            "IA-PPWR-LBL-ST-012-EUR-01-R00"
+          ],
+          [
+            "EU Declaration of Conformity\nEU Declaration of Conformity",
+            "IA-PPWR-DOC-ST-012-EUR-01-R00"
+          ],
+          [
+            "Shipment Packaging Information Statement\nShipment Packaging Information Statement",
+            "IA-PPWR-STM-ST-012-EUR-01-R00"
+          ]
+        ],
+        "last_row": [
+          "Üretici kimliği\nManufacturer identity",
+          "İnci Akü Sanayi ve Ticaret A.Ş.\nAddress/electronic contact shown on the controlled identification label"
+        ]
+      },
+      {
+        "i": 9,
+        "cols": 3,
+        "nrows": 8,
+        "header": [
+          "Ek\nAnnex",
+          "İçerik\nContent",
+          "Durum / Referans\nStatus / Reference"
+        ],
+        "sample_rows": [
+          [
+            "Ek\nAnnex",
+            "İçerik\nContent",
+            "Durum / Referans\nStatus / Reference"
+          ],
+          [
+            "A-01",
+            "Konfigürasyon çizimi\nConfiguration drawing",
+            "PENDING - DRAWING"
+          ],
+          [
+            "A-02",
+            "Kontrollü fotoğraf kaydı\nControlled photographic record",
+            "PENDING - PHOTOGRAPHS"
+          ]
+        ],
+        "last_row": [
+          "A-07",
+          "Sevkiyat Ambalaj Bilgi Beyanı\nShipment Packaging Information Statement",
+          "IA-PPWR-STM-ST-012-EUR-01-R00"
+        ]
+      }
+    ]
+  },
+  "DoC": {
+    "paras": [
+      "PPWR AB UYGUNLUK BEYANI\nPPWR EU DECLARATION OF CONFORMITY\nRegulation (EU) 2025/40 • Annex VIII",
+      "Doküman No/Doc. Nr.: YS/D/0021    Yayın Trh./Rel. Date: 11.08.2026   Rev.No/Rev.Nr.: 00   Rev.Trh./Rev.Date: - - -",
+      "01  TEK SORUMLULUK VE BEYANIN KONUSU\n01  SOLE RESPONSIBILITY AND OBJECT OF THE DECLARATION",
+      "Bu AB Uygunluk Beyanı, İnci Akü Sanayi ve Ticaret A.Ş.’nin bu belgede ve bağlantılı Teknik Dosyada tanımlanan sorumluluk kapsamı için tek sorumluluğu altında düzenlenmiştir.\nThis EU Declaration of Conformity is issued under the sole responsibility of İnci Akü Sanayi ve Ticaret A.Ş. for the responsibility scope identified in this declaration and the linked Technical File.",
+      "Beyanın konusu ST-012-EUR-01 kimlikli sabit ambalaj varyantıdır. Ayırt edici özellik ve sabit BOM, bağlantılı Teknik Dosyada tanımlanmıştır.\nThe object of the declaration is fixed packaging variant ST-012-EUR-01. Its variant basis and fixed BOM are defined in the linked Technical File.",
+      "02  UYGUNLUK BEYANI VE TEKNİK REFERANSLAR\n02  DECLARATION OF CONFORMITY AND TECHNICAL REFERENCES",
+      "Yukarıda tanımlanan ambalajın, bu beyanın yayın tarihinde uygulanabilir olan Regulation (EU) 2025/40 hükümlerine uygunluğu, bağlantılı Teknik Dosya ve Rev.00 kontrollü teknik kayıt esas alınarak değerlendirilmiştir.\nThe packaging identified above has been assessed against the provisions of Regulation (EU) 2025/40 applicable on the issue date, on the basis of the linked Technical File and the Rev.00 controlled technical record.",
+      "Henüz uygulanmayan veya ikincil mevzuatı tamamlanmamış gereklilikler için erken performans/uygunluk iddiası oluşturulmaz.\nNo early performance or conformity claim is made for requirements not yet applicable or awaiting secondary legislation.",
+      "03  EK BİLGİLER, GEÇERLİLİK VE İMZA\n03  ADDITIONAL INFORMATION, VALIDITY AND SIGNATURE",
+      "Ambalaj tasarımı, boyutu, ağırlığı, malzemesi, bileşenleri, sorumlu imalatçı veya uygulanabilir mevzuatta uygunluğu etkileyen değişiklik olduğunda bu beyan yeniden değerlendirilir.\nThis declaration is reassessed following a conformity-relevant change to packaging design, dimensions, weight, materials, components, responsible manufacturer or applicable legislation."
+    ],
+    "headers": [],
+    "footers": [],
+    "ntables": 4,
+    "tables_summary": [
+      {
+        "i": 0,
+        "cols": 2,
+        "nrows": 9,
+        "header": [
+          "Beyan Numarası\nDeclaration No.",
+          "IA-PPWR-DOC-ST-012-EUR-01-R00"
+        ],
+        "sample_rows": [
+          [
+            "Beyan Numarası\nDeclaration No.",
+            "IA-PPWR-DOC-ST-012-EUR-01-R00"
+          ],
+          [
+            "Ambalajın benzersiz tanımlaması\nUnique identification of packaging",
+            "ST-012-EUR-01\nConfiguration ID: IA-ST-012-EUR-01"
+          ],
+          [
+            "Ambalaj açıklaması\nDescription of packaging",
+            "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+          ]
+        ],
+        "last_row": [
+          "Revizyon / yayın tarihi\nRevision / issue date",
+          "Rev.00 / 08.08.2026"
+        ]
+      },
+      {
+        "i": 1,
+        "cols": 3,
+        "nrows": 5,
+        "header": [
+          "Referans\nReference",
+          "Konu\nSubject",
+          "Uygulama / durum\nApplication / status"
+        ],
+        "sample_rows": [
+          [
+            "Referans\nReference",
+            "Konu\nSubject",
+            "Uygulama / durum\nApplication / status"
+          ],
+          [
+            "Regulation (EU) 2025/40",
+            "Ambalaj ve ambalaj atıkları\nPackaging and packaging waste",
+            "Bu beyanın yasal dayanağı\nLegal basis of this declaration"
+          ],
+          [
+            "Annex VII / Module A",
+            "İç üretim kontrolü\nInternal production control",
+            "Bağlantılı Teknik Dosya üzerinden uygulanır\nApplied through the linked Technical File"
+          ]
+        ],
+        "last_row": [
+          "Rev.00 Article 5 assessment basis",
+          "Ağır metal / SoC değerlendirme esası\nHeavy-metal / SoC assessment basis",
+          "Desteklenmeyen bileşen-seviyesi sayısal iddia yok\nNo unsupported component-level numerical claim"
+        ]
+      },
+      {
+        "i": 2,
+        "cols": 2,
+        "nrows": 3,
+        "header": [
+          "Source BOM ID\nSource BOM ID",
+          "IA-ST-CFG-0004"
+        ],
+        "sample_rows": [
+          [
+            "Source BOM ID\nSource BOM ID",
+            "IA-ST-CFG-0004"
+          ],
+          [
+            "Packaging tare\nPackaging tare",
+            "29.3260 kg"
+          ],
+          [
+            "Geçerlilik\nValidity",
+            "Yerine geçen revizyona veya yeniden değerlendirme tetikleyicisine kadar\nUntil superseded or a reassessment trigger occurs"
+          ]
+        ],
+        "last_row": [
+          "Geçerlilik\nValidity",
+          "Yerine geçen revizyona veya yeniden değerlendirme tetikleyicisine kadar\nUntil superseded or a reassessment trigger occurs"
+        ]
+      },
+      {
+        "i": 3,
+        "cols": 2,
+        "nrows": 3,
+        "header": [
+          "Veriliş yeri ve tarihi\nPlace and date of issue",
+          "Manisa / Türkiye  •  __________________"
+        ],
+        "sample_rows": [
+          [
+            "Veriliş yeri ve tarihi\nPlace and date of issue",
+            "Manisa / Türkiye  •  __________________"
+          ],
+          [
+            "Ad / görev / imza\nName / function / signature",
+            "Ad / Name: ____________________   Görev / Function: ____________________\nİmza / Signature: _______________________________"
+          ],
+          [
+            "Adına ve hesabına\nSigned for and on behalf of",
+            "İnci Akü Sanayi ve Ticaret A.Ş."
+          ]
+        ],
+        "last_row": [
+          "Adına ve hesabına\nSigned for and on behalf of",
+          "İnci Akü Sanayi ve Ticaret A.Ş."
+        ]
+      }
+    ]
+  },
+  "LBL": {
+    "paras": [
+      "PPWR AMBALAJ KİMLİKLENDİRME ETİKETİ\nPPWR PACKAGING IDENTIFICATION LABEL\nControlled packaging identification • Rev.00",
+      "Doküman No/Doc. Nr.: YS/D/0022    Yayın Trh./Rel. Date: 11.08.2026   Rev.No/Rev.Nr.: 00   Rev.Trh./Rev.Date: - - -",
+      "İZLENEBİLİRLİK / SEVKİYAT ALANLARI / TRACEABILITY / SHIPMENT FIELDS",
+      "Kullanım notu: Bu etiket ambalaj konfigürasyonunun kimliğini ve üretici bilgisini gösterir. ADR/IMDG ve ürün güvenliği işaretlerinin yerine geçmez.\nUse note: This label identifies the packaging configuration and manufacturer information. It does not replace ADR/IMDG or product-safety markings."
+    ],
+    "headers": [],
+    "footers": [],
+    "ntables": 2,
+    "tables_summary": [
+      {
+        "i": 0,
+        "cols": 2,
+        "nrows": 11,
+        "header": [
+          "Ambalaj Tanımlama Numarası\nPackaging Identification No.",
+          "ST-012-EUR-01"
+        ],
+        "sample_rows": [
+          [
+            "Ambalaj Tanımlama Numarası\nPackaging Identification No.",
+            "ST-012-EUR-01"
+          ],
+          [
+            "Konfigürasyon Kimliği\nConfiguration ID",
+            "IA-ST-012-EUR-01"
+          ],
+          [
+            "Ambalaj açıklaması\nPackaging description",
+            "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+          ]
+        ],
+        "last_row": [
+          "Teknik Dosya\nTechnical File",
+          "IA-PPWR-TF-ST-012-EUR-01-R00"
+        ]
+      },
+      {
+        "i": 1,
+        "cols": 3,
+        "nrows": 2,
+        "header": [
+          "Ambalaj / paketleme lotu\nPackaging / packing lot",
+          "Paketleme tarihi\nPacking date",
+          "Sevkiyat referansı\nShipment reference"
+        ],
+        "sample_rows": [
+          [
+            "Ambalaj / paketleme lotu\nPackaging / packing lot",
+            "Paketleme tarihi\nPacking date",
+            "Sevkiyat referansı\nShipment reference"
+          ],
+          [
+            "________________",
+            "________________",
+            "________________"
+          ]
+        ],
+        "last_row": [
+          "________________",
+          "________________",
+          "________________"
+        ]
+      }
+    ]
+  },
+  "STM": {
+    "paras": [
+      "PPWR SEVKİYAT AMBALAJ BİLGİ BEYANI\nPPWR SHIPMENT PACKAGING INFORMATION STATEMENT\nShipment traceability master • Fixed BOM variant",
+      "Doküman No/Doc. Nr.: YS/D/0023    Yayın Trh./Rel. Date: 11.08.2026   Rev.No/Rev.Nr.: 00   Rev.Trh./Rev.Date: - - -",
+      "01  SEVKİYATTA UYGULANAN SABİT AMBALAJ VARYANTI\n01  FIXED PACKAGING VARIANT APPLIED TO THE SHIPMENT",
+      "Bu Statement sabit ST-012-EUR-01 BOM’unu sevkiyata bağlar; sevkiyat sırasında yalnız işlem-özel alanlar doldurulur.\nThis Statement links the fixed ST-012-EUR-01 BOM to the shipment; only transaction-specific fields are completed at dispatch.",
+      "02  SEVKİYAT AMBALAJ BOM’U\n02  SHIPMENT PACKAGING BOM"
+    ],
+    "headers": [],
+    "footers": [],
+    "ntables": 3,
+    "tables_summary": [
+      {
+        "i": 0,
+        "cols": 2,
+        "nrows": 7,
+        "header": [
+          "Sevkiyat numarası\nShipment number",
+          "________________"
+        ],
+        "sample_rows": [
+          [
+            "Sevkiyat numarası\nShipment number",
+            "________________"
+          ],
+          [
+            "Sevkiyat tarihi\nShipment date",
+            "________________"
+          ],
+          [
+            "Müşteri / OEM\nCustomer / OEM",
+            "________________"
+          ]
+        ],
+        "last_row": [
+          "Ambalaj / paketleme lotu\nPackaging / packing lot",
+          "________________"
+        ]
+      },
+      {
+        "i": 1,
+        "cols": 2,
+        "nrows": 6,
+        "header": [
+          "Konfigürasyon\nConfiguration",
+          "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+        ],
+        "sample_rows": [
+          [
+            "Konfigürasyon\nConfiguration",
+            "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+          ],
+          [
+            "Ayırt edici özellik\nVariant basis",
+            "C | Palet (4000038): 1 adet | Köşebent (4000590): 4 adet\nC | Pallet (4000038): 1 pc | Edge protector (4000590): 4 pcs"
+          ],
+          [
+            "Kimlik zinciri\nIdentity chain",
+            "ST-012-EUR-01 → IA-ST-012-EUR-01 → IA-ST-CFG-0004\nPackaging Set Code → Configuration ID → Source BOM ID"
+          ]
+        ],
+        "last_row": [
+          "Malzeme aileleri\nMaterial families",
+          "Çember/bağlama • Ahşap • Plastik/polimer • Kâğıt/karton\nStrap/securing • Wood • Plastic/polymer • Paper/cardboard"
+        ]
+      },
+      {
+        "i": 2,
+        "cols": 6,
+        "nrows": 9,
+        "header": [
+          "Kod\nCode",
+          "Bileşen / Malzeme\nComponent / Material",
+          "Miktar\nQuantity",
+          "Birim\nUOM",
+          "Birim ağırlık\nUnit weight",
+          "Satır ağırlığı\nLine weight"
+        ],
+        "sample_rows": [
+          [
+            "Kod\nCode",
+            "Bileşen / Malzeme\nComponent / Material",
+            "Miktar\nQuantity",
+            "Birim\nUOM",
+            "Birim ağırlık\nUnit weight",
+            "Satır ağırlığı\nLine weight"
+          ],
+          [
+            "4000450",
+            "SIGNODE ÇEMBER 1260 2000M 3000N 12.0X0.6",
+            "14",
+            "m / m",
+            "0.0124 kg",
+            "0.1736 kg"
+          ],
+          [
+            "4000038",
+            "PALET EURO,800*1200*152",
+            "1",
+            "adet / pcs",
+            "26.0000 kg",
+            "26.0000 kg"
+          ]
+        ],
+        "last_row": [
+          "TOPLAM\nTOTAL",
+          "TOPLAM\nTOTAL",
+          "TOPLAM\nTOTAL",
+          "TOPLAM\nTOTAL",
+          "TOPLAM\nTOTAL",
+          "29.3260 kg"
+        ]
+      }
+    ]
+  }
+}

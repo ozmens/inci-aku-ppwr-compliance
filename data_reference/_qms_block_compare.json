@@ -1,0 +1,266 @@
+{
+  "desk_doc": {
+    "paras": [
+      {
+        "i": 0,
+        "text": "PPWR AB UYGUNLUK BEYANI\nPPWR EU DECLARATION OF CONFORMITY\nRegulation (EU) 2025/40 • Annex VIII"
+      },
+      {
+        "i": 1,
+        "text": "Doküman No/Doc. Nr.: YS/D/0021    Yayın Trh./Rel. Date: 11.08.2026   Rev.No/Rev.Nr.: 00   Rev.Trh./Rev.Date: - - -"
+      },
+      {
+        "i": 2,
+        "text": " "
+      },
+      {
+        "i": 3,
+        "text": "01  TEK SORUMLULUK VE BEYANIN KONUSU\n01  SOLE RESPONSIBILITY AND OBJECT OF THE DECLARATION"
+      },
+      {
+        "i": 4,
+        "text": "Bu AB Uygunluk Beyanı, İnci Akü Sanayi ve Ticaret A.Ş.’nin bu belgede ve bağlantılı Teknik Dosyada tanımlanan sorumluluk kapsamı için tek sorumluluğu altında düzenlenmiştir.\nThis EU Declaration of Conformity is issued under the sole responsibility of İnci Akü Sanayi ve Ticaret A.Ş. for the responsibility scope identified in this declaration and the linked Technical File."
+      },
+      {
+        "i": 5,
+        "text": "Beyanın konusu ST-012-EUR-01 kimlikli sabit ambalaj varyantıdır. Ayırt edici özellik ve sabit BOM, bağlantılı Teknik Dosyada tanımlanmıştır.\nThe object of the declaration is fixed packaging variant ST-012-EUR-01. Its variant basis and fixed BOM are defined in the linked Technical File."
+      }
+    ],
+    "tables0": [
+      [
+        "Beyan Numarası\nDeclaration No.",
+        "IA-PPWR-DOC-ST-012-EUR-01-R00"
+      ],
+      [
+        "Ambalajın benzersiz tanımlaması\nUnique identification of packaging",
+        "ST-012-EUR-01\nConfiguration ID: IA-ST-012-EUR-01"
+      ],
+      [
+        "Ambalaj açıklaması\nDescription of packaging",
+        "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+      ],
+      [
+        "Ayırt edici özellik\nVariant basis",
+        "C | Palet (4000038): 1 adet | Köşebent (4000590): 4 adet\nC | Pallet (4000038): 1 pc | Edge protector (4000590): 4 pcs"
+      ],
+      [
+        "Üretici\nManufacturer",
+        "İnci Akü Sanayi ve Ticaret A.Ş."
+      ],
+      [
+        "Adres\nAddress",
+        "Manisa OSB 2. Kısım Keçiliköy OSB Mh., Gaziler Cad. No:6, 45030 Yunusemre-Manisa / Türkiye"
+      ],
+      [
+        "Elektronik iletişim\nElectronic contact",
+        "info@inciaku.com • www.inciaku.com / +90 236 233 25 10"
+      ],
+      [
+        "Teknik Dosya\nTechnical File",
+        "IA-PPWR-TF-ST-012-EUR-01-R00"
+      ],
+      [
+        "Revizyon / yayın tarihi\nRevision / issue date",
+        "Rev.00 / 08.08.2026"
+      ]
+    ],
+    "footers": []
+  },
+  "gen_doc": {
+    "paras": [
+      {
+        "i": 0,
+        "text": "PPWR AB UYGUNLUK BEYANI\nPPWR EU DECLARATION OF CONFORMITY\nRegulation (EU) 2025/40 • Annex VIII"
+      },
+      {
+        "i": 1,
+        "text": "Doküman No/Doc. Nr.: YS/D/0021    Yayın Trh./Rel. Date: 11.08.2026   Rev.No/Rev.Nr.: 00   Rev.Trh./Rev.Date: - - -"
+      },
+      {
+        "i": 2,
+        "text": "IA-PPWR-DOC-ST-012-EUR-01-R00  •  Rev.00  •  08.08.2026"
+      },
+      {
+        "i": 3,
+        "text": " "
+      },
+      {
+        "i": 4,
+        "text": "01  TEK SORUMLULUK VE BEYANIN KONUSU\n01  SOLE RESPONSIBILITY AND OBJECT OF THE DECLARATION"
+      },
+      {
+        "i": 5,
+        "text": "Bu AB Uygunluk Beyanı, İnci Akü Sanayi ve Ticaret A.Ş.’nin bu belgede ve bağlantılı Teknik Dosyada tanımlanan sorumluluk kapsamı için tek sorumluluğu altında düzenlenmiştir.\nThis EU Declaration of Conformity is issued under the sole responsibility of İnci Akü Sanayi ve Ticaret A.Ş. for the responsibility scope identified in this declaration and the linked Technical File."
+      }
+    ],
+    "tables0": [
+      [
+        "Beyan Numarası\nDeclaration No.",
+        "IA-PPWR-DOC-ST-012-EUR-01-R00"
+      ],
+      [
+        "Ambalajın benzersiz tanımlaması\nUnique identification of packaging",
+        "ST-012-EUR-01\nConfiguration ID: IA-ST-012-EUR-01"
+      ],
+      [
+        "Ambalaj açıklaması\nDescription of packaging",
+        "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+      ],
+      [
+        "Ayırt edici özellik\nVariant basis",
+        "C | Palet (4000038): 1 adet | Köşebent (4000590): 4 adet\nC | Pallet (4000038): 1 pc | Edge protector (4000590): 4 pcs"
+      ],
+      [
+        "Üretici\nManufacturer",
+        "İnci Akü Sanayi ve Ticaret A.Ş."
+      ],
+      [
+        "Adres\nAddress",
+        "Manisa OSB 2. Kısım Keçiliköy OSB Mh., Gaziler Cad. No:6, 45030 Yunusemre-Manisa / Türkiye"
+      ],
+      [
+        "Elektronik iletişim\nElectronic contact",
+        "info@inciaku.com • www.inciaku.com / +90 236 233 25 10"
+      ],
+      [
+        "Teknik Dosya\nTechnical File",
+        "IA-PPWR-TF-ST-012-EUR-01-R00"
+      ],
+      [
+        "Revizyon / yayın tarihi\nRevision / issue date",
+        "Rev.00 / 08.08.2026"
+      ]
+    ],
+    "footers": [
+      "Doküman No / Doc. Nr.: YS/D/0021"
+    ]
+  },
+  "desk_tf": {
+    "paras": [
+      {
+        "i": 0,
+        "text": "PPWR AMBALAJ KONFİGÜRASYONU TEKNİK DOSYASI\nPPWR PACKAGING CONFIGURATION TECHNICAL FILE\nRegulation (EU) 2025/40 • Annex VII • Module A / Internal Production Control"
+      },
+      {
+        "i": 1,
+        "text": "Doküman No/Doc. Nr.: YS/D/0020    Yayın Trh./Rel. Date: 11.08.2026   Rev.No/Rev.Nr.: 00   Rev.Trh./Rev.Date: - - -"
+      },
+      {
+        "i": 2,
+        "text": " "
+      },
+      {
+        "i": 3,
+        "text": "01  AMAÇ, KAPSAM VE KULLANIM\n01  PURPOSE, SCOPE AND INTENDED USE"
+      },
+      {
+        "i": 4,
+        "text": "Bu Teknik Dosya, ST-012-EUR-01 ambalaj varyantının Regulation (EU) 2025/40 kapsamında Annex VII / Module A iç üretim kontrolü esasına göre tanımlanması, bileşenlerinin ve sabit BOM’unun izlenebilirliği için hazırlanmıştır.\nThis Technical File defines packaging variant ST-012-EUR-01 under the Annex VII / Module A internal-production-control basis of Regulation (EU) 2025/40 and records the traceability of its components and fixed BOM."
+      },
+      {
+        "i": 5,
+        "text": " "
+      }
+    ],
+    "tables0": [
+      [
+        "Ambalaj Seti Kodu\nPackaging Set Code",
+        "ST-012-EUR-01"
+      ],
+      [
+        "Konfigürasyon Kimliği\nConfiguration ID",
+        "IA-ST-012-EUR-01"
+      ],
+      [
+        "Konfigürasyon\nPackaging Configuration",
+        "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+      ],
+      [
+        "Ayırt edici özellik\nVariant basis",
+        "C | Palet (4000038): 1 adet | Köşebent (4000590): 4 adet\nC | Pallet (4000038): 1 pc | Edge protector (4000590): 4 pcs"
+      ],
+      [
+        "Kaynak BOM / Veri Soy Ağacı Kimliği\nSource BOM / Data Lineage ID",
+        "IA-ST-CFG-0004"
+      ],
+      [
+        "Toplam ambalaj darası\nTotal packaging tare",
+        "29.3260 kg"
+      ],
+      [
+        "Üretici / Dosya sahibi\nManufacturer / Dossier owner",
+        "İnci Akü Sanayi ve Ticaret A.Ş."
+      ],
+      [
+        "Doküman revizyonu\nDocument revision",
+        "Rev.00 / 08.08.2026"
+      ]
+    ],
+    "footers": []
+  },
+  "gen_tf": {
+    "paras": [
+      {
+        "i": 0,
+        "text": "PPWR AMBALAJ KONFİGÜRASYONU TEKNİK DOSYASI\nPPWR PACKAGING CONFIGURATION TECHNICAL FILE\nRegulation (EU) 2025/40 • Annex VII • Module A / Internal Production Control"
+      },
+      {
+        "i": 1,
+        "text": "Doküman No/Doc. Nr.: YS/D/0020    Yayın Trh./Rel. Date: 11.08.2026   Rev.No/Rev.Nr.: 00   Rev.Trh./Rev.Date: - - -"
+      },
+      {
+        "i": 2,
+        "text": "IA-PPWR-TF-ST-012-EUR-01-R00  •  Rev.00  •  08.08.2026"
+      },
+      {
+        "i": 3,
+        "text": " "
+      },
+      {
+        "i": 4,
+        "text": "01  AMAÇ, KAPSAM VE KULLANIM\n01  PURPOSE, SCOPE AND INTENDED USE"
+      },
+      {
+        "i": 5,
+        "text": "Bu Teknik Dosya, ST-012-EUR-01 ambalaj varyantının Regulation (EU) 2025/40 kapsamında Annex VII / Module A iç üretim kontrolü esasına göre tanımlanması, bileşenlerinin ve sabit BOM’unun izlenebilirliği için hazırlanmıştır.\nThis Technical File defines packaging variant ST-012-EUR-01 under the Annex VII / Module A internal-production-control basis of Regulation (EU) 2025/40 and records the traceability of its components and fixed BOM."
+      }
+    ],
+    "tables0": [
+      [
+        "Ambalaj Seti Kodu\nPackaging Set Code",
+        "ST-012-EUR-01"
+      ],
+      [
+        "Konfigürasyon Kimliği\nConfiguration ID",
+        "IA-ST-012-EUR-01"
+      ],
+      [
+        "Konfigürasyon\nPackaging Configuration",
+        "Starter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01\nStarter 12-unit | Euro Pallet 800×1200×152 mm | Variant 01"
+      ],
+      [
+        "Ayırt edici özellik\nVariant basis",
+        "C | Palet (4000038): 1 adet | Köşebent (4000590): 4 adet\nC | Pallet (4000038): 1 pc | Edge protector (4000590): 4 pcs"
+      ],
+      [
+        "Kaynak BOM / Veri Soy Ağacı Kimliği\nSource BOM / Data Lineage ID",
+        "IA-ST-CFG-0004"
+      ],
+      [
+        "Toplam ambalaj darası\nTotal packaging tare",
+        "29.3260 kg"
+      ],
+      [
+        "Üretici / Dosya sahibi\nManufacturer / Dossier owner",
+        "İnci Akü Sanayi ve Ticaret A.Ş."
+      ],
+      [
+        "Doküman revizyonu\nDocument revision",
+        "Rev.00 / 08.08.2026"
+      ]
+    ],
+    "footers": [
+      "Doküman No / Doc. Nr.: YS/D/0020"
+    ]
+  }
+}

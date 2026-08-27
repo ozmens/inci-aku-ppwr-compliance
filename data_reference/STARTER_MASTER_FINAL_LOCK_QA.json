@@ -1,0 +1,35 @@
+{
+  "unique_starter_product_codes": 2046,
+  "scope_coverage": "2046 / 2046",
+  "products_with_controlled_packaging_set": "2043 / 2046",
+  "products_bom_data_required": "3 / 2046",
+  "controlled_existing_packaging_sets": 240,
+  "controlled_new_packaging_sets": 71,
+  "final_controlled_packaging_sets": 311,
+  "pending_configurations": 1,
+  "pending_configuration": "IA-ST-VAR-0037",
+  "pending_product_codes": [
+    "1013084",
+    "1014789",
+    "1014790"
+  ],
+  "every_controlled_product_one_set": "PASS",
+  "every_set_complete_linked_products": "PASS",
+  "product_code_packaging_set_adjacency": "PASS",
+  "no_provisional_in_311": "PASS",
+  "existing_240_unchanged": "PASS",
+  "word_hash_changed": 0,
+  "final_master_data_lock": "PASS",
+  "starter_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_STARTER_MASTER_Rev00.xlsx",
+  "backup_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_STARTER_MASTER_Rev00_PRELOCK_BACKUP.xlsx",
+  "provisional_code": "ST-018-STD-04",
+  "word_fingerprint": {
+    "count": 247,
+    "aggregate": "b0b4ed55abc48a0fe746893072267bc056b5f5a82ebc9485385d43e7fbd45c42",
+    "sample": [
+      "5b760a286035d4a8f5219ab13a702548475976ee65484ec8cb37cdecf10dcff5",
+      "275966f92f9003da94df5f26a4bbcc2dbd7da903cc4d2823bba58166bd15bd30",
+      "a9ca8065397b75fcb4efde3eb4cc8153ea8b39962eb3d31d880b2e3205bfa8c3"
+    ]
+  }
+}

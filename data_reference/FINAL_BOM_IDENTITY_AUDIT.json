@@ -1,0 +1,75 @@
+{
+  "existing_controlled_sets": 240,
+  "former_domestic_source_configs": 46,
+  "candidate_physical_variants": 72,
+  "exact_matches_to_existing_240": 0,
+  "tolerance_text_only_review_matches": 0,
+  "true_new_physical_boms": 71,
+  "manual_review": 1,
+  "resolved_bom_pending_st018_std04": "NO",
+  "pending_result": "BOM DATA REQUIRED",
+  "final_packaging_set_count": 311,
+  "products_resolved": 2046,
+  "unresolved_products": 0,
+  "expansion_46_to_72": "PASS",
+  "existing_240_unchanged": "PASS",
+  "word_hash_changed": 0,
+  "final_data_gate": "PASS",
+  "decision_counts": {
+    "C_TRUE_DIFF": 72,
+    "NEW": 71,
+    "MANUAL_REVIEW": 1
+  },
+  "internal_duplicate_groups": {},
+  "pending": {
+    "variant_id": "IA-ST-VAR-0037",
+    "source_configuration_id": "IA-ST-CFG-0018",
+    "product_codes": [
+      "1013084",
+      "1014789",
+      "1014790"
+    ],
+    "sources_checked": [
+      "L2:04_CONFIG_COMPONENTS hits=0",
+      "L2:05_VARIANT_MASTER hits=1",
+      "L2:06_VARIANT_COMPONENTS hits=0",
+      "L2:07_PRODUCT_MAP hits=3",
+      "L2:03_CONFIGURATION_MASTER hits=1",
+      "Golden:02_PRODUCT_MAP hits=3",
+      "Golden:04_DOMESTIC_ONLY hits=1",
+      "Mamul:Mamul Ambalaj Bileşen Listesi-30.07.2026(6).xlsx",
+      "CandidateStarter:INCI_AKU_PPWR_STARTER_MASTER_Rev00.xlsx"
+    ],
+    "findings": [
+      "L2/04_CONFIG_COMPONENTS: 0 related rows",
+      "L2/05_VARIANT_MASTER: 1 related rows",
+      "L2/06_VARIANT_COMPONENTS: 0 related rows",
+      "L2/07_PRODUCT_MAP: 3 related rows",
+      "L2/03_CONFIGURATION_MASTER: 1 related rows",
+      "Golden/02_PRODUCT_MAP: 3 related rows",
+      "Golden/04_DOMESTIC_ONLY: 1 related rows",
+      "Mamul product 1013084: 0 non-zero components",
+      "Mamul product 1014789: 0 non-zero components",
+      "Mamul product 1014790: 0 non-zero components"
+    ],
+    "mamul_component_counts": {
+      "1013084": 0,
+      "1014789": 0,
+      "1014790": 0
+    },
+    "bom_exists_in_controlled_sources": false,
+    "resolution": "BOM DATA REQUIRED",
+    "reuse_set": null,
+    "notes": "L2 variant_component_count=0; no base config components; Mamul Ambalaj has 0 non-zero packaging components for linked products. Do not inherit from ST-018-EUR-* family by name."
+  },
+  "audit_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\FINAL_BOM_IDENTITY_AUDIT_Rev00.xlsx",
+  "word_fingerprint": {
+    "count": 247,
+    "aggregate": "b0b4ed55abc48a0fe746893072267bc056b5f5a82ebc9485385d43e7fbd45c42",
+    "sample": [
+      "5b760a286035d4a8f5219ab13a702548475976ee65484ec8cb37cdecf10dcff5",
+      "275966f92f9003da94df5f26a4bbcc2dbd7da903cc4d2823bba58166bd15bd30",
+      "a9ca8065397b75fcb4efde3eb4cc8153ea8b39962eb3d31d880b2e3205bfa8c3"
+    ]
+  }
+}

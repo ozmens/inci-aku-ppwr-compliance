@@ -1,0 +1,1958 @@
+{
+  "report": {
+    "unique_product_codes": "2046 / 2046",
+    "controlled_products": "2043 / 2043",
+    "bom_data_required": "3 / 3",
+    "controlled_sets": "311 / 311",
+    "exactly_one_set": "2043 / 2043",
+    "complete_linked_sets": "311 / 311",
+    "union_linked": "2043 / 2043",
+    "diff_a": 0,
+    "diff_b": 0,
+    "diff_c": 0,
+    "unknown_in_sets": 0,
+    "pending_in_controlled_sets": 0,
+    "tare_exact": 71,
+    "tare_tolerance": 0,
+    "tare_fail": 240,
+    "doc_complete": "2043 / 2043",
+    "industrial_hits": 0,
+    "ind_24": "ABSENT",
+    "ind_48": "ABSENT",
+    "ind_80": "ABSENT",
+    "container_controlled": 0,
+    "adjacency": "PASS",
+    "adjacency_fail_sheets": [],
+    "management_numbering": "PASS",
+    "existing_240": "PASS",
+    "new_71": "PASS",
+    "pending_excluded_from_311": "PASS",
+    "word_hash_changed": 0,
+    "final_gate": "FAIL",
+    "exception_count": 240,
+    "candidate": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_STARTER_MASTER_Rev00_CROSSCHECK_CANDIDATE.xlsx",
+    "locked_untouched": true
+  },
+  "exceptions": [
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-012-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0004",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.326 BOM_SUM=29.14 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-012-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0005",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.526 BOM_SUM=27.34 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-012-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0006",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.0392 BOM_SUM=28.8532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-018-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0012",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.434 BOM_SUM=31.168 DIFF=1.266",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-018-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0013",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.194 BOM_SUM=30.008 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-018-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0014",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.9872 BOM_SUM=29.7212 DIFF=1.266",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-018-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0015",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.0392 BOM_SUM=29.8532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-018-EUR-05",
+      "Source Configuration ID": "IA-ST-CFG-0016",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.7004 BOM_SUM=29.4344 DIFF=1.266",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0027",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.37481 BOM_SUM=31.03381 DIFF=1.341",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0028",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.9 BOM_SUM=29.714 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0029",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.7682 BOM_SUM=29.4272 DIFF=1.341",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0030",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.0392 BOM_SUM=29.8532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-EUR-05",
+      "Source Configuration ID": "IA-ST-CFG-0031",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.6132 BOM_SUM=29.4272 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0020",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.8142 BOM_SUM=30.3792 DIFF=1.435",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0021",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.112 BOM_SUM=30.666 DIFF=1.446",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0023",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.8252 BOM_SUM=30.3792 DIFF=1.446",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0024",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.5384 BOM_SUM=30.0924 DIFF=1.446",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-021-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0025",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.983 BOM_SUM=30.386 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-024-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0035",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=36.726 BOM_SUM=36.54 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-024-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0037",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.84464 BOM_SUM=31.33864 DIFF=1.506",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-024-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0038",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.63 BOM_SUM=29.444 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-024-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0039",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.6632 BOM_SUM=29.1572 DIFF=1.506",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-024-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0034",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.23 BOM_SUM=31.044 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-027-STD90-01",
+      "Source Configuration ID": "IA-ST-CFG-0043",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=25.58996 BOM_SUM=24.21396 DIFF=1.376",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-027-STD90-02",
+      "Source Configuration ID": "IA-ST-CFG-0044",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=25.50316 BOM_SUM=24.12716 DIFF=1.376",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-028-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0045",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.056 BOM_SUM=27.75 DIFF=1.306",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0046",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.136 BOM_SUM=27.75 DIFF=1.386",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0047",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.986 BOM_SUM=30.15 DIFF=1.836",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0048",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.676 BOM_SUM=30.84 DIFF=1.836",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0049",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.336 BOM_SUM=30.15 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0051",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.6992 BOM_SUM=29.8632 DIFF=1.836",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0052",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.3892 BOM_SUM=30.5532 DIFF=1.836",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0053",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.9392 BOM_SUM=30.7532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-08",
+      "Source Configuration ID": "IA-ST-CFG-0054",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.4124 BOM_SUM=29.5764 DIFF=1.836",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-09",
+      "Source Configuration ID": "IA-ST-CFG-0055",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.1024 BOM_SUM=30.2664 DIFF=1.836",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-10",
+      "Source Configuration ID": "IA-ST-CFG-0056",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.467 BOM_SUM=29.87 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-030-STD-11",
+      "Source Configuration ID": "IA-ST-CFG-0057",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.157 BOM_SUM=30.56 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-033-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0058",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-034-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0059",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=40.7776 BOM_SUM=40.5916 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-034-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0060",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=37.296 BOM_SUM=37.11 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0062",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=43.186 BOM_SUM=43.0 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0065",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.942 BOM_SUM=27.756 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0066",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.366 BOM_SUM=27.74 DIFF=1.626",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0068",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-EUR-05",
+      "Source Configuration ID": "IA-ST-CFG-0070",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.98368 BOM_SUM=30.35768 DIFF=1.626",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-EUR-06",
+      "Source Configuration ID": "IA-ST-CFG-0071",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.0792 BOM_SUM=27.4532 DIFF=1.626",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-EUR-07",
+      "Source Configuration ID": "IA-ST-CFG-0072",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.6392 BOM_SUM=27.4532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0061",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=37.796 BOM_SUM=37.61 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0063",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.16 BOM_SUM=27.75 DIFF=1.41",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-036-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0064",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.1432 BOM_SUM=27.7332 DIFF=1.41",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0077",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=44.0068 BOM_SUM=43.8208 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0085",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0086",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.0672 BOM_SUM=27.4532 DIFF=1.614",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0087",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.6392 BOM_SUM=27.4532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0075",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=41.02094 BOM_SUM=40.83494 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0076",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=46.286 BOM_SUM=46.1 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0078",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.323 BOM_SUM=27.75 DIFF=1.573",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0079",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.3062 BOM_SUM=27.7332 DIFF=1.573",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0080",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.5992 BOM_SUM=27.7332 DIFF=1.866",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0081",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.3124 BOM_SUM=27.4464 DIFF=1.866",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0082",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.417 BOM_SUM=27.82 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-042-STD-08",
+      "Source Configuration ID": "IA-ST-CFG-0083",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.617 BOM_SUM=28.02 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-044-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0088",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=39.356 BOM_SUM=39.17 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0103",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0089",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=43.916 BOM_SUM=43.73 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0090",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=44.336 BOM_SUM=44.15 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0091",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=44.336 BOM_SUM=44.15 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0092",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.206 BOM_SUM=28.02 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0093",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=33.3498 BOM_SUM=31.3638 DIFF=1.986",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0094",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.9192 BOM_SUM=27.7332 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0095",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.4492 BOM_SUM=27.7332 DIFF=1.716",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-08",
+      "Source Configuration ID": "IA-ST-CFG-0096",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.7192 BOM_SUM=27.7332 DIFF=1.986",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-09",
+      "Source Configuration ID": "IA-ST-CFG-0097",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=33.063 BOM_SUM=31.077 DIFF=1.986",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-10",
+      "Source Configuration ID": "IA-ST-CFG-0098",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.4324 BOM_SUM=27.4464 DIFF=1.986",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-11",
+      "Source Configuration ID": "IA-ST-CFG-0099",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.649 BOM_SUM=28.052 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-12",
+      "Source Configuration ID": "IA-ST-CFG-0100",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.417 BOM_SUM=27.82 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-13",
+      "Source Configuration ID": "IA-ST-CFG-0101",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.617 BOM_SUM=28.02 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-045-STD-14",
+      "Source Configuration ID": "IA-ST-CFG-0102",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.476 BOM_SUM=28.29 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0105",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=44.6524 BOM_SUM=44.4664 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0107",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.3872 BOM_SUM=30.5252 DIFF=1.862",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0109",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.174 BOM_SUM=28.988 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0110",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.046 BOM_SUM=27.94 DIFF=2.106",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-05",
+      "Source Configuration ID": "IA-ST-CFG-0111",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.326 BOM_SUM=30.14 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-06",
+      "Source Configuration ID": "IA-ST-CFG-0112",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.506 BOM_SUM=27.32 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-07",
+      "Source Configuration ID": "IA-ST-CFG-0113",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-08",
+      "Source Configuration ID": "IA-ST-CFG-0114",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.126 BOM_SUM=27.94 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-09",
+      "Source Configuration ID": "IA-ST-CFG-0115",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.8524 BOM_SUM=30.4484 DIFF=2.404",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-10",
+      "Source Configuration ID": "IA-ST-CFG-0116",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.7592 BOM_SUM=27.6532 DIFF=2.106",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-11",
+      "Source Configuration ID": "IA-ST-CFG-0117",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.8192 BOM_SUM=27.6332 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-EUR-12",
+      "Source Configuration ID": "IA-ST-CFG-0118",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.8392 BOM_SUM=27.6532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0104",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=40.316 BOM_SUM=40.13 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-048-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0106",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.76 BOM_SUM=27.75 DIFF=2.01",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0132",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0133",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.2182 BOM_SUM=27.4532 DIFF=1.765",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0134",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.3232 BOM_SUM=27.4532 DIFF=1.87",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0135",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.6392 BOM_SUM=27.4532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0122",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.0384 BOM_SUM=46.8524 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0123",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.0384 BOM_SUM=46.8524 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0124",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=41.816 BOM_SUM=41.63 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0125",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.4584 BOM_SUM=47.2724 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0126",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.4584 BOM_SUM=47.2724 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0127",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=43.256 BOM_SUM=43.07 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0128",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.7284 BOM_SUM=47.5424 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-051-STD-08",
+      "Source Configuration ID": "IA-ST-CFG-0129",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=46.5784 BOM_SUM=46.3924 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0149",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0137",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=42.566 BOM_SUM=42.38 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0138",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=42.986 BOM_SUM=42.8 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0139",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=42.986 BOM_SUM=42.8 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0140",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.518 BOM_SUM=28.332 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0141",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=34.0706 BOM_SUM=31.3896 DIFF=2.681",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0142",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.7552 BOM_SUM=27.7332 DIFF=2.022",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0143",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=33.7838 BOM_SUM=31.1028 DIFF=2.681",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-08",
+      "Source Configuration ID": "IA-ST-CFG-0144",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.4684 BOM_SUM=27.4464 DIFF=2.022",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-09",
+      "Source Configuration ID": "IA-ST-CFG-0145",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=33.497 BOM_SUM=30.816 DIFF=2.681",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-10",
+      "Source Configuration ID": "IA-ST-CFG-0146",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.649 BOM_SUM=28.052 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-11",
+      "Source Configuration ID": "IA-ST-CFG-0147",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.417 BOM_SUM=27.82 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-054-STD-12",
+      "Source Configuration ID": "IA-ST-CFG-0148",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.617 BOM_SUM=28.02 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-056-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0150",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=44.106 BOM_SUM=43.92 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-056-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0151",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.126 BOM_SUM=27.94 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-056-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0152",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.7432 BOM_SUM=27.6532 DIFF=2.09",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-056-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0153",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.8392 BOM_SUM=27.6532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-057-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0160",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.326 BOM_SUM=30.14 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-057-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0161",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.506 BOM_SUM=27.32 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-057-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0162",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-057-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0163",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.8052 BOM_SUM=27.4532 DIFF=2.352",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-057-EUR-05",
+      "Source Configuration ID": "IA-ST-CFG-0164",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.6392 BOM_SUM=27.4532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-057-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0155",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.954 BOM_SUM=50.768 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-057-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0156",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.954 BOM_SUM=50.768 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-057-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0157",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.954 BOM_SUM=50.768 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-060-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0170",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=46.6702 BOM_SUM=46.4842 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-060-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0171",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=32.9834 BOM_SUM=30.5174 DIFF=2.466",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-060-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0165",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=49.136 BOM_SUM=48.95 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-060-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0166",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=49.136 BOM_SUM=48.95 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-060-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0167",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=49.136 BOM_SUM=48.95 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-060-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0168",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=49.136 BOM_SUM=48.95 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-060-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0169",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=49.556 BOM_SUM=49.37 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0188",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.326 BOM_SUM=30.14 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0189",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.506 BOM_SUM=27.32 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0172",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.40341 BOM_SUM=47.21741 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0173",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.708 BOM_SUM=27.522 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0174",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=33.628 BOM_SUM=31.242 DIFF=2.386",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0175",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=34.1512 BOM_SUM=31.7652 DIFF=2.386",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0176",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=33.8644 BOM_SUM=31.4784 DIFF=2.386",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0177",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.206 BOM_SUM=28.02 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0178",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.8692 BOM_SUM=27.7332 DIFF=2.136",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-08",
+      "Source Configuration ID": "IA-ST-CFG-0179",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.9992 BOM_SUM=27.7332 DIFF=2.266",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-09",
+      "Source Configuration ID": "IA-ST-CFG-0180",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.9192 BOM_SUM=27.7332 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-10",
+      "Source Configuration ID": "IA-ST-CFG-0181",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.5824 BOM_SUM=27.4464 DIFF=2.136",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-11",
+      "Source Configuration ID": "IA-ST-CFG-0182",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.7124 BOM_SUM=27.4464 DIFF=2.266",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-12",
+      "Source Configuration ID": "IA-ST-CFG-0183",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.649 BOM_SUM=28.052 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-13",
+      "Source Configuration ID": "IA-ST-CFG-0184",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.417 BOM_SUM=27.82 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-14",
+      "Source Configuration ID": "IA-ST-CFG-0185",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.617 BOM_SUM=28.02 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-063-STD-15",
+      "Source Configuration ID": "IA-ST-CFG-0186",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.2692 BOM_SUM=28.0032 DIFF=2.266",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-064-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0190",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=44.8124 BOM_SUM=44.6264 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-066-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0191",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=44.906 BOM_SUM=44.72 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-066-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0192",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=45.326 BOM_SUM=45.14 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-066-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0193",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=45.326 BOM_SUM=45.14 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-068-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0198",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.126 BOM_SUM=27.94 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-068-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0199",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.9442 BOM_SUM=27.6532 DIFF=2.291",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-068-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0200",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.0842 BOM_SUM=27.6532 DIFF=2.431",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-068-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0201",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.8392 BOM_SUM=27.6532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-068-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0194",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.696 BOM_SUM=47.51 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-068-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0195",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.696 BOM_SUM=47.51 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-068-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0196",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.696 BOM_SUM=47.51 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-068-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0197",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.696 BOM_SUM=47.51 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0204",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.8042 BOM_SUM=27.6732 DIFF=2.131",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0205",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.2342 BOM_SUM=27.6732 DIFF=2.561",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0206",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.8592 BOM_SUM=27.6732 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0209",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.366 BOM_SUM=28.18 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-EUR-05",
+      "Source Configuration ID": "IA-ST-CFG-0235",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=33.2594 BOM_SUM=31.1024 DIFF=2.157",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-EUR-06",
+      "Source Configuration ID": "IA-ST-CFG-0236",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.926 BOM_SUM=27.74 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0210",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.336 BOM_SUM=47.15 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0211",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.936 BOM_SUM=50.75 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0212",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.336 BOM_SUM=47.15 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0213",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.336 BOM_SUM=47.15 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0214",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=46.766 BOM_SUM=46.58 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0215",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.756 BOM_SUM=47.57 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0216",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.636 BOM_SUM=50.45 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-08",
+      "Source Configuration ID": "IA-ST-CFG-0217",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.708 BOM_SUM=27.522 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-09",
+      "Source Configuration ID": "IA-ST-CFG-0218",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.942 BOM_SUM=28.02 DIFF=2.922",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-10",
+      "Source Configuration ID": "IA-ST-CFG-0219",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=34.33224 BOM_SUM=31.41024 DIFF=2.922",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-11",
+      "Source Configuration ID": "IA-ST-CFG-0220",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.33912 BOM_SUM=27.77712 DIFF=2.562",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-12",
+      "Source Configuration ID": "IA-ST-CFG-0221",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.3672 BOM_SUM=27.7332 DIFF=2.634",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-13",
+      "Source Configuration ID": "IA-ST-CFG-0222",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.6552 BOM_SUM=27.7332 DIFF=2.922",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-14",
+      "Source Configuration ID": "IA-ST-CFG-0223",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.9192 BOM_SUM=27.7332 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-15",
+      "Source Configuration ID": "IA-ST-CFG-0224",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=34.04544 BOM_SUM=31.12344 DIFF=2.922",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-16",
+      "Source Configuration ID": "IA-ST-CFG-0225",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.05232 BOM_SUM=27.49032 DIFF=2.562",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-17",
+      "Source Configuration ID": "IA-ST-CFG-0226",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.0084 BOM_SUM=27.4464 DIFF=2.562",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-18",
+      "Source Configuration ID": "IA-ST-CFG-0227",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.3684 BOM_SUM=27.4464 DIFF=2.922",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-19",
+      "Source Configuration ID": "IA-ST-CFG-0228",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.649 BOM_SUM=28.052 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-20",
+      "Source Configuration ID": "IA-ST-CFG-0229",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.417 BOM_SUM=27.82 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-21",
+      "Source Configuration ID": "IA-ST-CFG-0230",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.617 BOM_SUM=28.02 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-22",
+      "Source Configuration ID": "IA-ST-CFG-0231",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.6372 BOM_SUM=28.0032 DIFF=2.634",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-23",
+      "Source Configuration ID": "IA-ST-CFG-0232",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.1892 BOM_SUM=28.0032 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-24",
+      "Source Configuration ID": "IA-ST-CFG-0233",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.3504 BOM_SUM=27.7164 DIFF=2.634",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-072-STD-25",
+      "Source Configuration ID": "IA-ST-CFG-0234",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.887 BOM_SUM=28.29 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-076-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0238",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.226 BOM_SUM=47.04 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-076-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0239",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.126 BOM_SUM=27.94 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-076-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0240",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.7272 BOM_SUM=27.6532 DIFF=3.074",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-076-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0241",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.8392 BOM_SUM=27.6532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-080-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0243",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=48.606 BOM_SUM=48.42 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-081-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0245",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.326 BOM_SUM=30.14 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-087-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0253",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=33.11851 BOM_SUM=30.93551 DIFF=2.183",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-087-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0246",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.1392 BOM_SUM=27.9532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-087-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0247",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.4892 BOM_SUM=27.9532 DIFF=2.536",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-087-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0248",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.0092 BOM_SUM=27.9532 DIFF=3.056",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-087-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0249",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.057 BOM_SUM=28.46 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-087-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0250",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=49.6589 BOM_SUM=49.4729 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-087-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0251",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.9824 BOM_SUM=27.4464 DIFF=2.536",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-087-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0252",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.5024 BOM_SUM=27.4464 DIFF=3.056",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-088-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0254",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.456 BOM_SUM=50.27 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-088-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0255",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.456 BOM_SUM=50.27 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-088-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0256",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.456 BOM_SUM=50.27 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-088-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0257",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.456 BOM_SUM=50.27 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-088-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0258",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.456 BOM_SUM=50.27 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-088-STD-06",
+      "Source Configuration ID": "IA-ST-CFG-0259",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.606 BOM_SUM=50.42 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-088-STD-07",
+      "Source Configuration ID": "IA-ST-CFG-0260",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=49.116 BOM_SUM=48.93 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-088-STD-08",
+      "Source Configuration ID": "IA-ST-CFG-0261",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=50.876 BOM_SUM=50.69 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-090-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0262",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.0852 BOM_SUM=27.7332 DIFF=2.352",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-090-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0263",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.649 BOM_SUM=28.052 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-01",
+      "Source Configuration ID": "IA-ST-CFG-0264",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.6532 BOM_SUM=27.8732 DIFF=2.78",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-02",
+      "Source Configuration ID": "IA-ST-CFG-0265",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.0262 BOM_SUM=27.6732 DIFF=3.353",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-03",
+      "Source Configuration ID": "IA-ST-CFG-0266",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=31.2262 BOM_SUM=27.8732 DIFF=3.353",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-04",
+      "Source Configuration ID": "IA-ST-CFG-0267",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.8592 BOM_SUM=27.6732 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-05",
+      "Source Configuration ID": "IA-ST-CFG-0268",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.0592 BOM_SUM=27.8732 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-06",
+      "Source Configuration ID": "IA-ST-CFG-0269",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.566 BOM_SUM=28.38 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-07",
+      "Source Configuration ID": "IA-ST-CFG-0275",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.126 BOM_SUM=27.94 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-08",
+      "Source Configuration ID": "IA-ST-CFG-0276",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=29.9492 BOM_SUM=27.4532 DIFF=2.496",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-09",
+      "Source Configuration ID": "IA-ST-CFG-0277",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=30.1492 BOM_SUM=27.6532 DIFF=2.496",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-EUR-10",
+      "Source Configuration ID": "IA-ST-CFG-0278",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=27.8392 BOM_SUM=27.6532 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0270",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=53.336 BOM_SUM=53.15 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0271",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=47.996 BOM_SUM=47.81 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0272",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=35.3172 BOM_SUM=32.5032 DIFF=2.814",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-STD-04",
+      "Source Configuration ID": "IA-ST-CFG-0273",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=34.7436 BOM_SUM=31.9296 DIFF=2.814",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-096-STD-05",
+      "Source Configuration ID": "IA-ST-CFG-0274",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.649 BOM_SUM=28.052 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-105-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0282",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=54.97265 BOM_SUM=54.78665 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-105-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0283",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=55.66265 BOM_SUM=55.47665 DIFF=0.186",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-120-STD-01",
+      "Source Configuration ID": "IA-ST-CFG-0284",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=35.3676 BOM_SUM=32.4276 DIFF=2.94",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-120-STD-02",
+      "Source Configuration ID": "IA-ST-CFG-0285",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=34.794 BOM_SUM=31.854 DIFF=2.94",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    },
+    {
+      "Product Code": "",
+      "Packaging Set Code": "ST-120-STD-03",
+      "Source Configuration ID": "IA-ST-CFG-0286",
+      "Sheet": "BOM_MASTER",
+      "Problem": "Tare mismatch CONFIG=28.649 BOM_SUM=28.052 DIFF=0.597",
+      "Recommended correction": "Investigate source weights; do not force-fit"
+    }
+  ]
+}

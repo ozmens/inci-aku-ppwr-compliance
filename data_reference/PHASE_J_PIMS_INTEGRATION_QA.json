@@ -1,0 +1,34 @@
+{
+  "pass": true,
+  "configurations": 247,
+  "linked": 988,
+  "hashed": 988,
+  "pending_uri": 0,
+  "stale_notes": 0,
+  "xor_bad_links": 0,
+  "broken_phase_i_paths": 0,
+  "broken_delivery_relative_links": 0,
+  "missing_files": 0,
+  "excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 62
+  },
+  "candidate": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FINAL_UI_CANDIDATE.xlsx",
+  "delivery_test": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_J_DELIVERY_TEST",
+  "ui_modules": [
+    "00_HOME",
+    "NAVIGATION",
+    "SEARCH",
+    "PACKAGING_CONFIGURATIONS",
+    "PRODUCT_MASTER",
+    "COMPONENT_MASTER",
+    "DOCUMENT_CENTER",
+    "TECHNICAL_FILES",
+    "DECLARATIONS_OF_CONFORMITY",
+    "LABELS",
+    "SHIPMENT_STATEMENTS",
+    "SHIPMENTS",
+    "DOC_ENGINE_MAP"
+  ]
+}

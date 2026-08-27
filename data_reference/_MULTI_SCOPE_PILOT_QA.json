@@ -1,0 +1,105 @@
+{
+  "starter": {
+    "folder": "1000069",
+    "docx": 4,
+    "pdf": 4,
+    "qms": {
+      "YS/D/0020": true,
+      "YS/D/0021": true,
+      "YS/D/0022": true,
+      "YS/D/0023": true
+    },
+    "sig": true,
+    "placeholder": false,
+    "photo_annex": true,
+    "photos": 6,
+    "pdf_ok": 4,
+    "pdf_fail": 0,
+    "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\01_STARTER_INDIVIDUAL_DELIVERY_REV00_CANDIDATE\\00_CONTROL\\INCI_AKU_PPWR_STARTER_INDIVIDUAL_ENGINE_Rev00.xlsx",
+    "data_gap_sample": "1004590"
+  },
+  "industrial": {
+    "folder": "IND-24V-01",
+    "docx": 4,
+    "pdf": 4,
+    "qms": {
+      "YS/D/0020": true,
+      "YS/D/0021": true,
+      "YS/D/0022": true,
+      "YS/D/0023": true
+    },
+    "sig": true,
+    "placeholder": false,
+    "photo_annex": true,
+    "photos": 5,
+    "pdf_ok": 4,
+    "pdf_fail": 0,
+    "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\02_INDUSTRIAL_DELIVERY_REV00_CANDIDATE\\00_CONTROL\\INCI_AKU_PPWR_INDUSTRIAL_ENGINE_Rev00.xlsx"
+  },
+  "container": {
+    "folder": "CNT-20-STD-01",
+    "docx": 4,
+    "pdf": 4,
+    "qms": {
+      "YS/D/0020": true,
+      "YS/D/0021": true,
+      "YS/D/0022": true,
+      "YS/D/0023": true
+    },
+    "sig": true,
+    "placeholder": false,
+    "photo_annex": true,
+    "photos": 4,
+    "pdf_ok": 4,
+    "pdf_fail": 0,
+    "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\03_CONTAINER_DELIVERY_REV00_CANDIDATE\\00_CONTROL\\INCI_AKU_PPWR_CONTAINER_ENGINE_Rev00.xlsx"
+  },
+  "component": {
+    "variants": [
+      {
+        "folder": "CMP-TEK-SIRA",
+        "docx": 4,
+        "pdf": 4,
+        "qms": {
+          "YS/D/0020": true,
+          "YS/D/0021": true,
+          "YS/D/0022": true,
+          "YS/D/0023": true
+        },
+        "sig": true,
+        "placeholder": false,
+        "photo_annex": true,
+        "photos": 2,
+        "pdf_ok": 4,
+        "pdf_fail": 0,
+        "source": "CMP-1ROW-01"
+      },
+      {
+        "folder": "CMP-CIFT-SIRA",
+        "docx": 4,
+        "pdf": 4,
+        "qms": {
+          "YS/D/0020": true,
+          "YS/D/0021": true,
+          "YS/D/0022": true,
+          "YS/D/0023": true
+        },
+        "sig": true,
+        "placeholder": false,
+        "photo_annex": true,
+        "photos": 2,
+        "pdf_ok": 4,
+        "pdf_fail": 0,
+        "source": "CMP-2ROW-01"
+      }
+    ],
+    "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\04_COMPONENT_SPARE_DELIVERY_REV00_CANDIDATE\\00_CONTROL\\INCI_AKU_PPWR_COMPONENT_SPARE_ENGINE_Rev00.xlsx"
+  },
+  "PILOT_GATES": {
+    "STARTER": true,
+    "INDUSTRIAL": true,
+    "CONTAINER": true,
+    "COMPONENT": true
+  },
+  "PILOT_OVERALL": "PASS"
+}

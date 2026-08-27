@@ -1,0 +1,42 @@
+{
+  "STARTER": {
+    "engine": "INCI_AKU_PPWR_STARTER_INDIVIDUAL_ENGINE_Rev00.xlsx",
+    "verify": {
+      "ok": 16192,
+      "missing": 0,
+      "examples": []
+    },
+    "sha256": "fec372034eb433f6815d53d40a45efbd203c93c75bb1267f273622629eb721b0",
+    "records": 2024
+  },
+  "INDUSTRIAL": {
+    "engine": "INCI_AKU_PPWR_INDUSTRIAL_ENGINE_Rev00.xlsx",
+    "verify": {
+      "ok": 21888,
+      "missing": 0,
+      "examples": []
+    },
+    "sha256": "e34f8200d8f536e235b3fcf9b21c6d4b30e8dce6a350ea402cac889df5c09173",
+    "records": 2736
+  },
+  "CONTAINER": {
+    "engine": "INCI_AKU_PPWR_CONTAINER_ENGINE_Rev00.xlsx",
+    "verify": {
+      "ok": 32,
+      "missing": 0,
+      "examples": []
+    },
+    "sha256": "099260531da8c692b8af720278ad0d7ed3c84395977e46c21c49a211f23f2e45",
+    "records": 4
+  },
+  "COMPONENT": {
+    "engine": "INCI_AKU_PPWR_COMPONENT_SPARE_ENGINE_Rev00.xlsx",
+    "verify": {
+      "ok": 16,
+      "missing": 0,
+      "examples": []
+    },
+    "sha256": "8e80394383de36efd65f695bf92d2eec906b3610063c7c74338fe56cd0270870",
+    "records": 2
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "ts": "2026-08-17 11:46:03",
+  "scopes": {
+    "STARTER": {
+      "folders": 2024,
+      "docx": 8096,
+      "pdf": 8096,
+      "missing_pdf": 0,
+      "engine": "INCI_AKU_PPWR_STARTER_INDIVIDUAL_ENGINE_Rev00.xlsx",
+      "verify": {
+        "ok": 16192,
+        "missing": 0,
+        "examples": []
+      },
+      "sha256": "1343e774e0764f6aa41cb05ccb32773c7a1124f471893653ca6324f13492b9ac",
+      "spot": {
+        "exists": true,
+        "italic_runs": 1045,
+        "has_annex": true,
+        "has_header_img": true,
+        "bom_bilingual": true
+      },
+      "zip": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\01_STARTER_INDIVIDUAL_DELIVERY_REV00.zip",
+      "verify_ok": true
+    },
+    "INDUSTRIAL": {
+      "folders": 2736,
+      "docx": 10944,
+      "pdf": 10944,
+      "missing_pdf": 0,
+      "engine": "INCI_AKU_PPWR_INDUSTRIAL_ENGINE_Rev00.xlsx",
+      "verify": {
+        "ok": 21888,
+        "missing": 0,
+        "examples": []
+      },
+      "sha256": "a1292da71c508aee7f7d18c81b8687aea345c9fdd94ba4a6498556416f5738a0",
+      "spot": {
+        "exists": true,
+        "italic_runs": 1045,
+        "has_annex": true,
+        "has_header_img": true,
+        "bom_bilingual": true
+      },
+      "zip": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\02_INDUSTRIAL_DELIVERY_REV00.zip",
+      "verify_ok": true
+    },
+    "CONTAINER": {
+      "folders": 4,
+      "docx": 16,
+      "pdf": 16,
+      "missing_pdf": 0,
+      "engine": "INCI_AKU_PPWR_CONTAINER_ENGINE_Rev00.xlsx",
+      "verify": {
+        "ok": 32,
+        "missing": 0,
+        "examples": []
+      },
+      "sha256": "f75980c544b22a7e3ae659eef2743ca901e13dfb115cf246ea576ed196bc7aa5",
+      "spot": {
+        "exists": true,
+        "italic_runs": 1051,
+        "has_annex": true,
+        "has_header_img": true,
+        "bom_bilingual": true
+      },
+      "zip": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\03_CONTAINER_DELIVERY_REV00.zip",
+      "verify_ok": true
+    },
+    "COMPONENT": {
+      "folders": 2,
+      "docx": 8,
+      "pdf": 8,
+      "missing_pdf": 0,
+      "engine": "INCI_AKU_PPWR_COMPONENT_SPARE_ENGINE_Rev00.xlsx",
+      "verify": {
+        "ok": 16,
+        "missing": 0,
+        "examples": []
+      },
+      "sha256": "3c2d688f92ec0f37d5062705dfd53cbf4850638fe70c8bbb3686c2f9cc170be8",
+      "spot": {
+        "exists": true,
+        "italic_runs": 1040,
+        "has_annex": true,
+        "has_header_img": true,
+        "bom_bilingual": true
+      },
+      "zip": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\04_COMPONENT_SPARE_DELIVERY_REV00.zip",
+      "verify_ok": true
+    }
+  },
+  "OVERALL": "PASS"
+}

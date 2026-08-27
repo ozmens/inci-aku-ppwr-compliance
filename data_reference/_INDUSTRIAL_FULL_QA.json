@@ -1,0 +1,16 @@
+{
+  "products": 2736,
+  "folders": 2736,
+  "docx": 10944,
+  "pdf": 10944,
+  "pdf_fail": 0,
+  "sample_ok": true,
+  "sample_codes": [
+    "1501043",
+    "2502789",
+    "2501466"
+  ],
+  "GATE": "PASS",
+  "candidate": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\02_INDUSTRIAL_INDIVIDUAL_DELIVERY_REV00_CANDIDATE",
+  "engine": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\02_INDUSTRIAL_INDIVIDUAL_DELIVERY_REV00_CANDIDATE\\00_CONTROL\\INCI_AKU_PPWR_INDUSTRIAL_ENGINE_Rev00.xlsx"
+}

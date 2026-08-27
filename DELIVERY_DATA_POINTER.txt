@@ -1,0 +1,7 @@
+﻿Inci Akü PPWR — Delivery data root (READ-ONLY)
+DO NOT modify the controlled delivery sets.
+
+C:\Users\burcu\Documents\YAZILIM\Inci_Aku_PPWR_PIMS\output\01_STARTER_INDIVIDUAL_DELIVERY_REV00
+C:\Users\burcu\Documents\YAZILIM\Inci_Aku_PPWR_PIMS\output\02_INDUSTRIAL_DELIVERY_REV00
+C:\Users\burcu\Documents\YAZILIM\Inci_Aku_PPWR_PIMS\output\03_CONTAINER_DELIVERY_REV00
+C:\Users\burcu\Documents\YAZILIM\Inci_Aku_PPWR_PIMS\output\04_COMPONENT_SPARE_DELIVERY_REV00

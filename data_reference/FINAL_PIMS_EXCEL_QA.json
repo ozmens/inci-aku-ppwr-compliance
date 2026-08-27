@@ -1,0 +1,67 @@
+{
+  "run_id": "XR-20260810T192954Z",
+  "corrupt_archived": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_PRODUCTION_CORRUPT_ARCHIVED.xlsx",
+  "obsolete_marked": [
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\Inci_Aku_PPWR_Packaging_Management_System_Rev00.xlsx",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\export\\Inci_Aku_PPWR_Packaging_Management_System_Rev00\\Inci_Aku_PPWR_Packaging_Management_System_Rev00.xlsx"
+  ],
+  "clean_base": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00.xlsx",
+  "template_dual_autofilter": 0,
+  "template_excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 49,
+    "repair_dialog": 0,
+    "warning_count": 0,
+    "saved_as": null
+  },
+  "safe_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_PRODUCTION_EXCEL_SAFE.xlsx",
+  "safe_dual_autofilter": 0,
+  "excel_open_safe": {
+    "ok": true,
+    "error": null,
+    "sheets": 49,
+    "repair_dialog": 0,
+    "warning_count": 0,
+    "saved_as": null
+  },
+  "excel_save_as_native": {
+    "ok": true,
+    "error": null,
+    "sheets": 49,
+    "repair_dialog": 0,
+    "warning_count": 0,
+    "saved_as": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_PRODUCTION_EXCEL_NATIVE.xlsx"
+  },
+  "excel_reopen_native": {
+    "ok": true,
+    "error": null,
+    "sheets": 49,
+    "repair_dialog": 0,
+    "warning_count": 0,
+    "saved_as": null
+  },
+  "counts": {
+    "configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "tf": 247,
+    "doc": 247,
+    "statement": 247,
+    "doc_library": 988,
+    "starter": 240,
+    "industrial": 3,
+    "container": 4
+  },
+  "st051": {
+    "set": "ST-051-STD-01",
+    "cfg": "IA-ST-051-STD-01",
+    "source": "IA-ST-CFG-0122",
+    "tare": 47.0384,
+    "products_ok": true
+  },
+  "final_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FINAL.xlsx",
+  "final_sha256": "69172eb1c69857837f7cf0f862b7cd54ce8c426d18b6af4698e23b3b62ae918f",
+  "gate": "PASS"
+}

@@ -1,0 +1,310 @@
+{
+  "phase_o4_visual_redesign": "PASS",
+  "manual_visual_review": "PENDING",
+  "workbook_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FINAL_EXECUTIVE_V5_CANDIDATE.xlsx",
+  "visual_qa": {
+    "HOME": "PASS",
+    "NAVIGATION": "PASS",
+    "SEARCH": "PASS",
+    "search_input_editable": "PASS",
+    "DOCUMENT_CENTER": "PASS",
+    "DOC_ENGINE_MAP": "PASS",
+    "SHIPMENTS": "PASS"
+  },
+  "functional_qa": {
+    "ui_links": "PASS",
+    "search_usable": "PASS",
+    "no_shape_text_edit": "PASS",
+    "no_broken_hyperlinks": "PASS",
+    "no_overlapping_ui": "PASS"
+  },
+  "data_qa": {
+    "canonical_counts": "PASS",
+    "registry_counts": "PASS"
+  },
+  "baseline_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "after_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "counts_unchanged": true,
+  "word_links_working": 988,
+  "word_links_total": 988,
+  "word_links_broken": 0,
+  "absolute_paths": 0,
+  "home_links": 13,
+  "interaction": {
+    "pass": true,
+    "status": "PASS",
+    "search_ok": true,
+    "locked": true,
+    "steps": [
+      {
+        "step": "HOME→Document Center",
+        "ok": true
+      },
+      {
+        "step": "Return HOME",
+        "ok": true
+      },
+      {
+        "step": "HOME→Search",
+        "ok": true
+      },
+      {
+        "step": "Search ST-051-STD-01",
+        "ok": true,
+        "result": "IA-ST-051-STD-01"
+      },
+      {
+        "step": "Search→HOME",
+        "ok": true
+      },
+      {
+        "step": "Shape.Locked",
+        "ok": true
+      }
+    ]
+  },
+  "search_qa": {
+    "input_editable": true,
+    "wrote_ok": true,
+    "covered_by_opaque_shape": false,
+    "covering_shapes": [],
+    "lookup_sample": "IA-ST-051-STD-01"
+  },
+  "visible_nontahoma": 0,
+  "native_excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 62
+  },
+  "layout": {
+    "sheets": [
+      {
+        "sheet": "00_HOME",
+        "ui_class": "A",
+        "shape_count": 138,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "NAVIGATION",
+        "ui_class": "A",
+        "shape_count": 66,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "SEARCH",
+        "ui_class": "A",
+        "shape_count": 26,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "PACKAGING_CONFIGURATIONS",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "PRODUCT_MASTER",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "COMPONENT_MASTER",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "DOCUMENT_CENTER",
+        "ui_class": "B",
+        "shape_count": 0,
+        "table_start_row": 3,
+        "status": "PASS"
+      },
+      {
+        "sheet": "TECHNICAL_FILES",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "DECLARATIONS_OF_CONFORMITY",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "LABELS",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "SHIPMENT_STATEMENTS",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "SHIPMENTS",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "DOC_ENGINE_MAP",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      }
+    ],
+    "shape_table_intersections": 0,
+    "overlapping_legacy_shapes_remaining": 0,
+    "duplicate_visible_titles": 0
+  },
+  "shape_stats": {
+    "shapes_created": 230,
+    "hyperlinks_added": 38,
+    "locked_shapes": 460,
+    "protect": [
+      {
+        "sheet": "00_HOME",
+        "ok": true,
+        "mode": "DrawingObjects+Contents",
+        "locked_shapes": 138
+      },
+      {
+        "sheet": "NAVIGATION",
+        "ok": true,
+        "mode": "DrawingObjects+Contents",
+        "locked_shapes": 66
+      },
+      {
+        "sheet": "SEARCH",
+        "ok": true,
+        "mode": "DrawingObjects+Contents",
+        "locked_shapes": 26
+      }
+    ]
+  },
+  "cell_stats": [
+    {
+      "sheet": "DOCUMENT_CENTER",
+      "class": "B",
+      "table_start_row": 6,
+      "rows": 247,
+      "cols": 18,
+      "last_row": 253
+    },
+    {
+      "sheet": "SHIPMENTS",
+      "class": "C",
+      "rows": 0,
+      "empty_state": true
+    },
+    {
+      "sheet": "DOC_ENGINE_MAP",
+      "class": "C",
+      "table_start_row": 6,
+      "rows": 9,
+      "cols": 6
+    },
+    {
+      "sheet": "PACKAGING_CONFIGURATIONS",
+      "class": "C",
+      "table_start_row": 6,
+      "rows": 247,
+      "cols": 14,
+      "last_row": 253
+    },
+    {
+      "sheet": "PRODUCT_MASTER",
+      "class": "C",
+      "table_start_row": 6,
+      "rows": 2046,
+      "cols": 8,
+      "last_row": 2052
+    },
+    {
+      "sheet": "COMPONENT_MASTER",
+      "class": "C",
+      "table_start_row": 6,
+      "rows": 112,
+      "cols": 9,
+      "last_row": 118
+    },
+    {
+      "sheet": "TECHNICAL_FILES",
+      "class": "C",
+      "table_start_row": 6,
+      "rows": 247,
+      "cols": 13,
+      "last_row": 253
+    },
+    {
+      "sheet": "DECLARATIONS_OF_CONFORMITY",
+      "class": "C",
+      "table_start_row": 6,
+      "rows": 247,
+      "cols": 11,
+      "last_row": 253
+    },
+    {
+      "sheet": "LABELS",
+      "class": "C",
+      "table_start_row": 6,
+      "rows": 247,
+      "cols": 9,
+      "last_row": 253
+    },
+    {
+      "sheet": "SHIPMENT_STATEMENTS",
+      "class": "C",
+      "table_start_row": 6,
+      "rows": 247,
+      "cols": 9,
+      "last_row": 253
+    },
+    {
+      "docx_formulas_converted": 0
+    }
+  ],
+  "preview_files": [
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O4_V5_PREVIEW\\PHASE_O4_V5_HOME.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O4_V5_PREVIEW\\PHASE_O4_V5_NAVIGATION.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O4_V5_PREVIEW\\PHASE_O4_V5_SEARCH.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O4_V5_PREVIEW\\PHASE_O4_V5_DOCUMENT_CENTER.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O4_V5_PREVIEW\\PHASE_O4_V5_DOC_ENGINE_MAP.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O4_V5_PREVIEW\\PHASE_O4_V5_SHIPMENTS.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O4_V5_PREVIEW\\PHASE_O4_V5_PACKAGING_CONFIGURATIONS.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O4_V5_PREVIEW\\PHASE_O4_V5_TECHNICAL_FILES.png"
+  ],
+  "word_regenerated": false,
+  "data_changed": false,
+  "promoted": false,
+  "revision": "Rev.00"
+}

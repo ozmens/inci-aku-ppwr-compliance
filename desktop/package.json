@@ -1,0 +1,13 @@
+{
+  "name": "inci-ppwr-desktop",
+  "private": true,
+  "version": "1.0.0",
+  "description": "İnci Akü PPWR — Electron shell",
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^36.4.0"
+  }
+}

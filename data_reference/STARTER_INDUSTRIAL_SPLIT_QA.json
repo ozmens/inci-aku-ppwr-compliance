@@ -1,0 +1,112 @@
+{
+  "starter_product_codes": 2046,
+  "existing_starter_sets": 240,
+  "former_domestic_source_configs_evaluated": 46,
+  "domestic_variants_evaluated": 72,
+  "exact_bom_duplicates_reused": 0,
+  "new_packaging_sets_required": 72,
+  "final_starter_packaging_set_count": 312,
+  "products_without_source_configuration": 0,
+  "products_without_packaging_set_resolution": 0,
+  "starter_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_STARTER_MASTER_Rev00.xlsx",
+  "industrial_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_INDUSTRIAL_MASTER_Rev00.xlsx",
+  "industrial_baseline_config_count": 3,
+  "container_records_excluded_from_starter": 4,
+  "product_code_packaging_set_adjacency": "PASS",
+  "existing_240_set_codes_unchanged": "PASS",
+  "word_hash_changed": 0,
+  "word_fingerprint_before": {
+    "count": 247,
+    "aggregate": "b0b4ed55abc48a0fe746893072267bc056b5f5a82ebc9485385d43e7fbd45c42",
+    "sample": [
+      "5b760a286035d4a8f5219ab13a702548475976ee65484ec8cb37cdecf10dcff5",
+      "275966f92f9003da94df5f26a4bbcc2dbd7da903cc4d2823bba58166bd15bd30",
+      "a9ca8065397b75fcb4efde3eb4cc8153ea8b39962eb3d31d880b2e3205bfa8c3"
+    ]
+  },
+  "word_fingerprint_after": {
+    "count": 247,
+    "aggregate": "b0b4ed55abc48a0fe746893072267bc056b5f5a82ebc9485385d43e7fbd45c42",
+    "sample": [
+      "5b760a286035d4a8f5219ab13a702548475976ee65484ec8cb37cdecf10dcff5",
+      "275966f92f9003da94df5f26a4bbcc2dbd7da903cc4d2823bba58166bd15bd30",
+      "a9ca8065397b75fcb4efde3eb4cc8153ea8b39962eb3d31d880b2e3205bfa8c3"
+    ]
+  },
+  "no_industrial_in_starter": true,
+  "no_container_in_starter": true,
+  "all_domestic_sources_present": true,
+  "final": "PASS",
+  "variant_resolutions_sample": [
+    {
+      "source_configuration_id": "IA-ST-CFG-0001",
+      "variant_id": "IA-ST-VAR-0001",
+      "action": "NEW",
+      "packaging_set_code": "ST-004-STD-01",
+      "product_count": 3
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0001",
+      "variant_id": "IA-ST-VAR-0002",
+      "action": "NEW",
+      "packaging_set_code": "ST-004-STD-02",
+      "product_count": 3
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0001",
+      "variant_id": "IA-ST-VAR-0003",
+      "action": "NEW",
+      "packaging_set_code": "ST-004-STD-03",
+      "product_count": 2
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0001",
+      "variant_id": "IA-ST-VAR-0004",
+      "action": "NEW",
+      "packaging_set_code": "ST-004-STD-04",
+      "product_count": 1
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0002",
+      "variant_id": "IA-ST-VAR-0005",
+      "action": "NEW",
+      "packaging_set_code": "ST-006-STD-01",
+      "product_count": 1
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0002",
+      "variant_id": "IA-ST-VAR-0006",
+      "action": "NEW",
+      "packaging_set_code": "ST-006-STD-02",
+      "product_count": 2
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0002",
+      "variant_id": "IA-ST-VAR-0007",
+      "action": "NEW",
+      "packaging_set_code": "ST-006-STD-03",
+      "product_count": 2
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0002",
+      "variant_id": "IA-ST-VAR-0008",
+      "action": "NEW",
+      "packaging_set_code": "ST-006-STD-04",
+      "product_count": 2
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0002",
+      "variant_id": "IA-ST-VAR-0009",
+      "action": "NEW",
+      "packaging_set_code": "ST-006-STD-05",
+      "product_count": 1
+    },
+    {
+      "source_configuration_id": "IA-ST-CFG-0003",
+      "variant_id": "IA-ST-VAR-0010",
+      "action": "NEW",
+      "packaging_set_code": "ST-008-STD-01",
+      "product_count": 1
+    }
+  ]
+}

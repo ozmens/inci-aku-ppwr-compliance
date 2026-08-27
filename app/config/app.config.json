@@ -1,0 +1,12 @@
+{
+  "deliveryRoot": "delivery",
+  "candidatesRoot": "candidates",
+  "scopes": {
+    "starter": "01_STARTER_INDIVIDUAL_DELIVERY_REV00",
+    "industrial": "02_INDUSTRIAL_DELIVERY_REV00",
+    "container": "03_CONTAINER_DELIVERY_REV00",
+    "component": "04_COMPONENT_SPARE_DELIVERY_REV00"
+  },
+  "readOnlyDeliveries": true,
+  "publishDate": "18.08.2026"
+}

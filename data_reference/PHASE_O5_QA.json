@@ -1,0 +1,217 @@
+{
+  "phase_o5_technical_gate": "PASS",
+  "manual_visual_acceptance": "PENDING",
+  "workbook_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FRONTEND_O5_CANDIDATE.xlsx",
+  "baseline_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "after_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "counts_unchanged": true,
+  "word_links": {
+    "total": 988,
+    "existing": 988,
+    "missing": 0,
+    "absolute": 0
+  },
+  "home_links": 13,
+  "interaction": {
+    "pass": true,
+    "status": "PASS",
+    "search_ok": true,
+    "locked": true,
+    "steps": [
+      {
+        "step": "HOME→Documents",
+        "ok": true
+      },
+      {
+        "step": "Return HOME",
+        "ok": true
+      },
+      {
+        "step": "HOME→Search",
+        "ok": true
+      },
+      {
+        "step": "Search ST-051-STD-01",
+        "ok": true,
+        "result": "IA-ST-051-STD-01"
+      },
+      {
+        "step": "Search→Nav via pill",
+        "ok": true
+      },
+      {
+        "step": "Nav→HOME",
+        "ok": true
+      },
+      {
+        "step": "Shape.Locked",
+        "ok": true
+      }
+    ]
+  },
+  "search_qa": {
+    "input_editable": true,
+    "wrote_ok": true,
+    "covered_by_opaque_shape": false,
+    "covering_shapes": [],
+    "gold_border_present": false,
+    "lookup_sample": "IA-ST-051-STD-01",
+    "input_range": "C8:H9"
+  },
+  "layout": {
+    "sheets": [
+      {
+        "sheet": "00_HOME",
+        "ui_class": "A",
+        "shape_count": 148,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "NAVIGATION",
+        "ui_class": "A",
+        "shape_count": 62,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "SEARCH",
+        "ui_class": "A",
+        "shape_count": 23,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "PACKAGING_CONFIGURATIONS",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "PRODUCT_MASTER",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "COMPONENT_MASTER",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "DOCUMENT_CENTER",
+        "ui_class": "B",
+        "shape_count": 0,
+        "table_start_row": 3,
+        "status": "PASS"
+      },
+      {
+        "sheet": "TECHNICAL_FILES",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "DECLARATIONS_OF_CONFORMITY",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "LABELS",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "SHIPMENT_STATEMENTS",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      },
+      {
+        "sheet": "SHIPMENTS",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": null,
+        "status": "PASS"
+      },
+      {
+        "sheet": "DOC_ENGINE_MAP",
+        "ui_class": "C",
+        "shape_count": 0,
+        "table_start_row": 6,
+        "status": "PASS"
+      }
+    ],
+    "shape_table_intersections": 0,
+    "overlapping_legacy_shapes_remaining": 0,
+    "duplicate_visible_titles": 0
+  },
+  "visible_nontahoma": 0,
+  "native_excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 62
+  },
+  "shape_stats": {
+    "shapes_created": 233,
+    "hyperlinks_added": 38,
+    "locked_shapes": 466,
+    "protect": [
+      {
+        "sheet": "00_HOME",
+        "ok": true,
+        "mode": "DrawingObjects+Contents",
+        "locked_shapes": 148
+      },
+      {
+        "sheet": "NAVIGATION",
+        "ok": true,
+        "mode": "DrawingObjects+Contents",
+        "locked_shapes": 62
+      },
+      {
+        "sheet": "SEARCH",
+        "ok": true,
+        "mode": "DrawingObjects+Contents",
+        "locked_shapes": 23
+      }
+    ]
+  },
+  "preview_files": [
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O5_PREVIEW\\HOME.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O5_PREVIEW\\NAVIGATION.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O5_PREVIEW\\SEARCH.png"
+  ],
+  "before_after_files": [
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O5_BEFORE_AFTER\\V5_vs_O5_HOME.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O5_BEFORE_AFTER\\V5_vs_O5_NAVIGATION.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_O5_BEFORE_AFTER\\V5_vs_O5_SEARCH.png"
+  ],
+  "operational_sheets_modified": false,
+  "word_regenerated": false,
+  "data_changed": false,
+  "promoted": false,
+  "note": "Visual PASS is reserved for human review. Do not auto-claim visual PASS."
+}

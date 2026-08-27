@@ -1,0 +1,55 @@
+﻿Scope;File Name;Visual Description;Source Premium Collage
+starter;STR_001_EURO_PALLET.jpg;Euro Pallet;ambalaj_malzemeleri_ürün_kolajı.png
+starter;STR_002_LONG_EDGE_PROTECTOR.jpg;Long Cardboard Edge Protector;ambalaj_malzemeleri_ürün_kolajı.png
+starter;STR_003_CORNER_GUARD.jpg;Cardboard Corner Guard;ambalaj_malzemeleri_ürün_kolajı.png
+starter;STR_004_STRAP_TENSIONER_BUCKLE.jpg;Strap Tensioner Buckle;ambalaj_malzemeleri_ürün_kolajı.png
+starter;STR_005_STRAP_METAL_CLIP.jpg;Strap Metal Clip;ambalaj_malzemeleri_ürün_kolajı.png
+starter;STR_006_BLACK_PLASTIC_STRAP.jpg;Black Plastic Strap;ambalaj_malzemeleri_ürün_kolajı.png
+starter;STR_007_GREEN_PLASTIC_STRAP.jpg;Green Plastic Strap;ambalaj_malzemeleri_ürün_kolajı.png
+starter;STR_008_EURO_PALLET_ALT.jpg;Euro Pallet Alternative View;ambalaj_malzemeleri_ürün_koleksiyonu.png
+starter;STR_009_STRETCH_FILM_ROLL.jpg;Stretch Film Roll;ambalaj_malzemeleri_ürün_koleksiyonu.png
+starter;STR_010_STRETCH_PAD_SHEET.jpg;Stretch Pad Sheet;ambalaj_malzemeleri_ürün_koleksiyonu.png
+starter;STR_011_BLACK_STRAP_ROLL.jpg;Black Strap Roll;ambalaj_malzemeleri_ürün_koleksiyonu.png
+starter;STR_014_FOAM_BLOCK.jpg;Foam Protection Block;ambalaj_malzemeleri_ürün_koleksiyonu.png
+starter;STR_015_YELLOW_PLASTIC_CORNER.jpg;Yellow Plastic Corner Protector;ambalaj_malzemeleri_ürün_koleksiyonu.png
+starter;STR_016_STRETCH_FILM_ALT.jpg;Stretch Film Roll Alternate;imagegen.png
+starter;STR_017_STRETCH_PAD_ALT.jpg;Stretch Pad Sheet Alternate;imagegen.png
+starter;STR_018_SHRINK_FILM_ROLL.jpg;Shrink Film Roll / Sleeve;imagegen.png
+starter;STR_019_HONEYCOMB_BOARD.jpg;Honeycomb Board;imagegen.png
+starter;STR_020_CARDBOARD_INTERLAYER.jpg;Cardboard Separator / Interlayer;imagegen.png
+starter;STR_021_PACKING_TAPE.jpg;Packing Tape Roll;imagegen.png
+starter;STR_022_CLEAR_PLASTIC_BAG.jpg;Clear Plastic Bag;imagegen.png
+starter;STR_023_ANTI_SLIP_PAD.jpg;Anti-Slip Pad;imagegen.png
+industrial;IND_001_CHIPBOARD_PANEL.jpg;Industrial Chipboard Panel;endüstriyel_ambalaj_bileşenleri_kataloğu.png
+industrial;IND_002_TIMBER_BLOCK.jpg;Industrial Timber Block;endüstriyel_ambalaj_bileşenleri_kataloğu.png
+industrial;IND_003_SHIPPING_VENT_PLUG.jpg;Shipping / Vent Plug;endüstriyel_ambalaj_bileşenleri_kataloğu.png
+industrial;IND_004_M10_YELLOW_TERMINAL_CAP.jpg;M10 Yellow Terminal Cap;endüstriyel_ambalaj_bileşenleri_kataloğu.png
+industrial;IND_005_DEIONIZED_WATER_JERRYCAN_20L.jpg;20L Deionized Water Jerrycan;endüstriyel_ambalaj_bileşenleri_kataloğu.png
+industrial;IND_006_CORROSIVE_LABEL.jpg;Corrosive Label;endüstriyel_ambalaj_bileşenleri_kataloğu.png
+industrial;IND_007_END2_LABEL.jpg;END.2 Battery Label;endüstriyel_ambalaj_bileşenleri_kataloğu.png
+industrial;IND_008_RECYCLE_CE_LABEL.jpg;Recycle / CE Label;endüstriyel_ambalaj_bileşenleri_kataloğu.png
+container;CNT_001_20FT_CONTAINER.jpg;20-Foot Shipping Container;lojistik_ambalaj_ürünleri_kataloğu.png
+container;CNT_002_40FT_CONTAINER.jpg;40-Foot Shipping Container;lojistik_ambalaj_ürünleri_kataloğu.png
+container;CNT_003_EURO_PALLET.jpg;Euro Pallet;lojistik_ambalaj_ürünleri_kataloğu.png
+container;CNT_004_OSB_BOARD_PANEL.jpg;OSB Board Panel;lojistik_ambalaj_ürünleri_kataloğu.png
+container;CNT_005_CARDBOARD_SEPARATOR.jpg;Cardboard Separator;lojistik_ambalaj_ürünleri_kataloğu.png
+container;CNT_006_DUNNAGE_AIR_BAG.jpg;Dunnage Air Bag;lojistik_ambalaj_ürünleri_kataloğu.png
+container;CNT_007_LASHING_ROPE.jpg;Lashing Rope;kargo_ambalaj_malzemeleri_kataloğu.png
+container;CNT_008_ROPE_BUCKLE.jpg;Rope Buckle;kargo_ambalaj_malzemeleri_kataloğu.png
+container;CNT_009_PALLET_FIXING_WEDGE.jpg;Pallet Fixing Wedge Block;kargo_ambalaj_malzemeleri_kataloğu.png
+container;CNT_010_TRIANGULAR_WOODEN_WEDGE.jpg;Triangular Wooden Wedge;kargo_ambalaj_malzemeleri_kataloğu.png
+container;CNT_011_HEAT_TREATED_PLYWOOD_LID.jpg;Heat-Treated Plywood Lid / Cover Panel;kargo_ambalaj_malzemeleri_kataloğu.png
+container;CNT_012_HAMBURG_FIXING_TIMBER_PLANK.jpg;Hamburg-Style Fixing Timber Plank;kargo_ambalaj_malzemeleri_kataloğu.png
+container;CNT_013_FLAMMABLE_HAZARD_LABEL.jpg;Flammable Hazard Label;kargo_ambalaj_malzemeleri_kataloğu.png
+component;CMP_S01_SINGLE_ROW_CARTON.jpg;Single-Row Carton;endüstriyel_ambalaj_malzemeleri_koleksiyonu.png
+component;CMP_S02_EURO_PALLET.jpg;Euro Pallet — Single Row;endüstriyel_ambalaj_malzemeleri_koleksiyonu.png
+component;CMP_S03_CLEAR_PLASTIC_BAG.jpg;Clear Plastic Bag — Single Row;endüstriyel_ambalaj_malzemeleri_koleksiyonu.png
+component;CMP_S04_PACKING_TAPE.jpg;Packing Tape — Single Row;endüstriyel_ambalaj_malzemeleri_koleksiyonu.png
+component;CMP_S05_STRETCH_FILM.jpg;Stretch Film — Single Row;endüstriyel_ambalaj_malzemeleri_koleksiyonu.png
+component;CMP_S06_SHIPPING_LABEL.jpg;Shipping Label — Single Row;endüstriyel_ambalaj_malzemeleri_koleksiyonu.png
+component;CMP_D01_DOUBLE_ROW_CARTON.jpg;Double-Row Carton;ambalaj_ve_kargo_malzemeleri_vitrini.png
+component;CMP_D02_EURO_PALLET.jpg;Euro Pallet — Double Row;ambalaj_ve_kargo_malzemeleri_vitrini.png
+component;CMP_D03_CLEAR_PLASTIC_BAG.jpg;Clear Plastic Bag — Double Row;ambalaj_ve_kargo_malzemeleri_vitrini.png
+component;CMP_D04_PACKING_TAPE.jpg;Packing Tape — Double Row;ambalaj_ve_kargo_malzemeleri_vitrini.png
+component;CMP_D05_STRETCH_FILM.jpg;Stretch Film — Double Row;ambalaj_ve_kargo_malzemeleri_vitrini.png
+component;CMP_D06_SHIPPING_LABEL.jpg;Shipping Label — Double Row;ambalaj_ve_kargo_malzemeleri_vitrini.png

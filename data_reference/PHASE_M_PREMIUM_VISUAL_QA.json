@@ -1,0 +1,125 @@
+{
+  "gate": "PASS",
+  "workbook_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_PIMS_Rev00_FINAL_UI_PREMIUM_CANDIDATE.xlsx",
+  "delivery_root": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_UI_PREMIUM",
+  "delivery_workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_UI_PREMIUM\\INCI_AKU_PPWR_PIMS_Rev00_FINAL_UI_PREMIUM_CANDIDATE.xlsx",
+  "preview_dir": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW",
+  "preview_files": [
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW\\PHASE_M_DOCUMENT_CENTER.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW\\PHASE_M_HOME.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW\\PHASE_M_NAVIGATION.png",
+    "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW\\PHASE_M_SEARCH.png"
+  ],
+  "sheets_refined": [
+    "00_HOME",
+    "NAVIGATION",
+    "SEARCH",
+    "PACKAGING_CONFIGURATIONS",
+    "PRODUCT_MASTER",
+    "COMPONENT_MASTER",
+    "DOCUMENT_CENTER",
+    "TECHNICAL_FILES",
+    "DECLARATIONS_OF_CONFORMITY",
+    "LABELS",
+    "SHIPMENT_STATEMENTS",
+    "SHIPMENTS",
+    "DOC_ENGINE_MAP"
+  ],
+  "dashboard_redesign": [
+    "Executive hero banner with gold identity strip and Rev.00 badge area",
+    "KPI cards redesigned as spaced panel grid (not dense table)",
+    "Elegant status summary panel with PASS/LOADED pills",
+    "Calmer chart styling (muted navy, minimal grid, clean labels)",
+    "Module launch tiles with breathing space",
+    "Cell-panel KPI grid with gold accent edges and status pills",
+    "Badge/status ribbon (Rev.00 / Controlled / PASS) in header strip"
+  ],
+  "style_enhancements": [
+    "Palette: deep navy + muted gold + ivory/stone + steel-blue",
+    "Reduced spreadsheet grid feel (hidden gridlines, hairline borders)",
+    "Stronger typography hierarchy (Tahoma sizes/weights)",
+    "Softer table headers and banding on user-facing registers",
+    "Premium SEARCH inquiry panel layout",
+    "NAVIGATION launchpad grouping A–D",
+    "COM shapes skipped: Excel denies AddShape on this workbook lineage; cell panels used instead"
+  ],
+  "baseline_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "after_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "counts_unchanged": true,
+  "total_document_links": 988,
+  "working_links": 988,
+  "broken_links": 0,
+  "broken_paths": 0,
+  "absolute_path_hits": 0,
+  "home_buttons": 13,
+  "tested_sample_links": [
+    {
+      "sample": "STARTER_TF",
+      "relative": "01_STARTER/ST-051-STD-01/01_Technical_File.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_DOC",
+      "relative": "01_STARTER/ST-051-STD-01/02_EU_DoC.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_LBL",
+      "relative": "01_STARTER/ST-051-STD-01/03_Label.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "STARTER_STM",
+      "relative": "01_STARTER/ST-051-STD-01/04_Shipment_Statement.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "INDUSTRIAL",
+      "relative": "02_INDUSTRIAL/IND-24V-01/01_Technical_File.docx",
+      "exists": true,
+      "in_workbook_links": true
+    },
+    {
+      "sample": "CONTAINER",
+      "relative": "03_CONTAINER/CNT-20-STD-01/03_Label.docx",
+      "exists": true,
+      "in_workbook_links": true
+    }
+  ],
+  "native_excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 62
+  },
+  "white_on_light_issues": [],
+  "shape_info": {
+    "shapes_added": 0,
+    "shapes_skipped_reason": "Excel COM cannot insert drawing shapes into this workbook lineage (AddShape/Textbox denied). Premium visuals use cell-panel design.",
+    "previews": [
+      "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW\\PHASE_M_HOME.png",
+      "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW\\PHASE_M_NAVIGATION.png",
+      "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW\\PHASE_M_SEARCH.png",
+      "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\PHASE_M_PREVIEW\\PHASE_M_DOCUMENT_CENTER.png"
+    ],
+    "error": null
+  },
+  "canonical_data_changed": false,
+  "word_regenerated": false,
+  "final_overwritten": false
+}

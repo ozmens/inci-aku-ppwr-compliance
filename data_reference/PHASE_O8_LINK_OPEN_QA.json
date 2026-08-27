@@ -1,0 +1,150 @@
+{
+  "phase_o8_actual_link_open_gate": "PASS",
+  "delivery_root": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7",
+  "workbook": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\INCI_AKU_PPWR_PIMS_Rev00_FINAL.xlsx",
+  "folder_modes": {
+    "01_STARTER": "junction",
+    "02_INDUSTRIAL": "junction",
+    "03_CONTAINER": "junction",
+    "90_MANIFEST": "junction",
+    "99_QA_REPORT": "junction"
+  },
+  "baseline_counts": {
+    "packaging_configurations": 247,
+    "bom_lines": 1690,
+    "components": 112,
+    "products": 2046,
+    "documents": 988
+  },
+  "counts_unchanged": true,
+  "native_excel_open": {
+    "ok": true,
+    "error": null,
+    "sheets": 62
+  },
+  "path_scan": {
+    "total": 988,
+    "existing": 988,
+    "missing": 0,
+    "absolute": 0,
+    "missing_samples": []
+  },
+  "word_open_tests": [
+    {
+      "family": "STARTER",
+      "packaging_set_code": "ST-051-STD-01",
+      "document_type": "Technical File",
+      "hyperlink_address": "01_STARTER/ST-051-STD-01/01_Technical_File.docx",
+      "resolved_full_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\01_STARTER\\ST-051-STD-01\\01_Technical_File.docx",
+      "target_exists": true,
+      "source_sheet": "DOCUMENT_CENTER",
+      "source_cell": "J110",
+      "excel_hyperlink_activated": true,
+      "word_opened": true,
+      "word_document_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\01_STARTER\\ST-051-STD-01\\01_Technical_File.docx",
+      "error": null
+    },
+    {
+      "family": "STARTER",
+      "packaging_set_code": "ST-051-STD-01",
+      "document_type": "EU DoC",
+      "hyperlink_address": "01_STARTER/ST-051-STD-01/02_EU_DoC.docx",
+      "resolved_full_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\01_STARTER\\ST-051-STD-01\\02_EU_DoC.docx",
+      "target_exists": true,
+      "source_sheet": "DOCUMENT_CENTER",
+      "source_cell": "L110",
+      "excel_hyperlink_activated": true,
+      "word_opened": true,
+      "word_document_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\01_STARTER\\ST-051-STD-01\\02_EU_DoC.docx",
+      "error": null
+    },
+    {
+      "family": "STARTER",
+      "packaging_set_code": "ST-051-STD-01",
+      "document_type": "Label",
+      "hyperlink_address": "01_STARTER/ST-051-STD-01/03_Label.docx",
+      "resolved_full_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\01_STARTER\\ST-051-STD-01\\03_Label.docx",
+      "target_exists": true,
+      "source_sheet": "DOCUMENT_CENTER",
+      "source_cell": "N110",
+      "excel_hyperlink_activated": true,
+      "word_opened": true,
+      "word_document_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\01_STARTER\\ST-051-STD-01\\03_Label.docx",
+      "error": null
+    },
+    {
+      "family": "STARTER",
+      "packaging_set_code": "ST-051-STD-01",
+      "document_type": "Shipment Statement",
+      "hyperlink_address": "01_STARTER/ST-051-STD-01/04_Shipment_Statement.docx",
+      "resolved_full_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\01_STARTER\\ST-051-STD-01\\04_Shipment_Statement.docx",
+      "target_exists": true,
+      "source_sheet": "DOCUMENT_CENTER",
+      "source_cell": "P110",
+      "excel_hyperlink_activated": true,
+      "word_opened": true,
+      "word_document_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\01_STARTER\\ST-051-STD-01\\04_Shipment_Statement.docx",
+      "error": null
+    },
+    {
+      "family": "INDUSTRIAL",
+      "packaging_set_code": "IND-24V-01",
+      "document_type": "Technical File",
+      "hyperlink_address": "02_INDUSTRIAL/IND-24V-01/01_Technical_File.docx",
+      "resolved_full_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\02_INDUSTRIAL\\IND-24V-01\\01_Technical_File.docx",
+      "target_exists": true,
+      "source_sheet": "DOCUMENT_CENTER",
+      "source_cell": "J11",
+      "excel_hyperlink_activated": true,
+      "word_opened": true,
+      "word_document_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\02_INDUSTRIAL\\IND-24V-01\\01_Technical_File.docx",
+      "error": null
+    },
+    {
+      "family": "CONTAINER",
+      "packaging_set_code": "CNT-20-STD-01",
+      "document_type": "Technical File",
+      "hyperlink_address": "03_CONTAINER/CNT-20-STD-01/01_Technical_File.docx",
+      "resolved_full_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\03_CONTAINER\\CNT-20-STD-01\\01_Technical_File.docx",
+      "target_exists": true,
+      "source_sheet": "DOCUMENT_CENTER",
+      "source_cell": "J8",
+      "excel_hyperlink_activated": true,
+      "word_opened": true,
+      "word_document_path": "C:\\Users\\burcu\\Documents\\YAZILIM\\Inci_Aku_PPWR_PIMS\\output\\INCI_AKU_PPWR_FINAL_DELIVERY_REV00_O7\\03_CONTAINER\\CNT-20-STD-01\\01_Technical_File.docx",
+      "error": null
+    }
+  ],
+  "word_open_pass_count": 6,
+  "word_open_expected": 6,
+  "internal_navigation": {
+    "pass": true,
+    "status": "PASS",
+    "steps": [
+      {
+        "step": "HOME→Document Center",
+        "ok": true
+      },
+      {
+        "step": "Document Center→HOME",
+        "ok": true
+      },
+      {
+        "step": "HOME→Search",
+        "ok": true
+      },
+      {
+        "step": "Search→HOME",
+        "ok": true
+      },
+      {
+        "step": "HOME→Navigation",
+        "ok": true
+      }
+    ]
+  },
+  "visual_design_changed": false,
+  "word_regenerated": false,
+  "search_changed": false,
+  "promoted": false
+}

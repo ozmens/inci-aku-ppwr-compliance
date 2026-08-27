@@ -1,0 +1,53 @@
+# Lookup code seeds for architecture / future workbook (not production data)
+
+status:
+  - DRAFT
+  - ACTIVE
+  - OBSOLETE
+  - CONFIRMED
+  - CANCELLED
+
+product_category:
+  - STARTER_BATTERY
+  - INDUSTRIAL_BATTERY
+  - OTHER
+
+document_type:
+  - TECH_FILE
+  - DOC_PDF
+  - SPEC
+  - DRAWING
+  - PHOTO
+  - CERTIFICATE
+  - LABEL
+  - STATEMENT
+  - OTHER
+
+line_role:
+  - BASE
+  - PALLET
+  - WRAP
+  - CORNER
+  - LAYER_PAD
+  - LABEL
+  - DUNNAGE
+  - AIRBAG
+  - LINER
+  - LASHING
+  - OUTER_CARTON
+  - UPPER_COVER
+  - SEPARATOR
+  - EDGE_PROTECTOR
+  - SHRINK
+  - STRETCH
+  - STRAP
+  - OTHER
+
+incoterm:
+  - EXW
+  - FCA
+  - FOB
+  - CIP
+  - CIF
+  - DAP
+  - DDP

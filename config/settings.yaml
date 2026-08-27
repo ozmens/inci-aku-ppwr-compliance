@@ -1,0 +1,38 @@
+# İnci Akü PPWR PIMS — centralized settings (Phase E)
+# Schema authority remains FINAL_DATABASE.md 1.0.0
+
+company:
+  legal_name: "İnci Akü Sanayi ve Ticaret A.Ş."
+  address: >-
+    Manisa OSB 2. Kısım Keçiliköy OSB Mh., Gaziler Cad. No:6,
+    45030 Yunusemre-Manisa / Türkiye
+  email: "info@inciaku.com"
+  website: "www.inciaku.com"
+
+document:
+  revision: "Rev.00"
+  revision_code: "R00"
+  annex_drawings_status: "PENDING – DRAWINGS / PHOTOGRAPHS"
+  article5_basis_label: "REV00 CURRENT EVIDENCE BASIS — ARTICLE 5 ASSESSMENT BASIS"
+
+id:
+  company_prefix: "IA"
+  ppwr_prefix: "IA-PPWR"
+  default_variant_width: 2
+
+features:
+  excel_generation: false   # use: python build.py --excel-template
+  word_generation: false
+  batch_production: false
+
+style:
+  font_family: "Tahoma"
+  body_pt: 10
+  paragraph_spacing_pt: 6
+  after_table_spacing_pt: 6
+  turkish_first: true
+  english_italic: true
+  header_fill: "#1F4E79"
+  header_font_color: "#FFFFFF"
+  body_text_color: "#1A1A1A"
+  white_text_only_on_dark: true
